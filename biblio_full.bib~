@@ -4666,14 +4666,53 @@
   year={2002}
 }
 
-@article{Kato+Phillips:2006,
+@article{Kato+Phillips:1969,
   title={{On the penetration of a turbulent layer into stratified fluid}},
   author={Kato, H. and Phillips, O.M.},
   journal={Journal of Fluid Mechanics Digital Archive},
   volume={37},
   number={04},
   pages={643--655},
-  year={2006},
+  year={1969},
   publisher={Cambridge Univ Press}
+}
+
+@Article{Mirshak+Kelley:2008,
+  author = 	 {Mirshak, R. and Kelley, D.E.},
+  title = 	 {Inferring propagation direction of nonlinear
+                  internal waves in a vertically sheared background
+                  flow},
+  journal = 	 jaot,
+  year = 	 {2008},
+  volume = 	 {26},
+  pages = 	 {615--625},
+  doi = {doi:10.1175/2008JTEC0632.1},
+  annote = 	 {}
+}
+
+@Article{Ingram:1978,
+  author = 	 {R. Grant Ingram},
+  title = 	 {Internal wave observations off {Isle Verte}},
+  journal = 	 jmr,
+  year = 	 {1978},
+  volume = 	 {36},
+  pages = 	 {715--724},
+  annote = 	 {Early paper reporting internal waves and surface
+                  streaks in the St. Lawrence Estuary, near the
+                  SLEIWEX field site. The basis of the paper is from
+                  aerial survey photographs taken about 3.5 hours
+                  after low tide just off of Isle Verte. The bands are
+                  clearly from a train of nonlinear internal waves,
+                  though there is no in situ data to accompany the
+                  photographs. Hydrographic and current data taken
+                  during the same phase of the tide but two years
+                  later do reveal nonlinear internal waves passing an
+                  anchored ship. The generation mechanism is not
+                  believed to be topographic, but consistent to the
+                  theory of Lee and Beardsley (1974) and related to
+                  warm water fronts occuring near the the head of the
+                  laurentian channel which break down due to
+                  dispersion and nonlinearity into a train of internal
+                  waves.}
 }
 
