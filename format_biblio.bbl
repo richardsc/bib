@@ -1,0 +1,2757 @@
+\begin{thebibliography}{100}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Alford:2003}
+M.~Alford, ``{Redistribution of energy available for ocean mixing by long-range
+  propagation of internal waves.}'' \emph{Nature}, vol. 423, no. 6936, pp.
+  159--62, 2003.
+ \begin{quotation}\noindent Alford presents an attempt to map energy fluxes in
+  the internal wave field for the inertial and semidiurnal bands. Previous
+  studies (Munk and Wunsch 1998, Wunsch 1998) have shown that the wind and tide
+  input enough power ($\sim$ 2 TW) to maintain abyssal stratification, however,
+  long range propagation of energy will produce significant differences between
+  source and dissipation regions, which with perfect knowledge of sources and
+  horizontal flux is given by $D({\bf x}) = S({\bf x}) - \nabla \cdot {\bf
+  F(x)}$. Here he uses historical data at 60 locations to compute flux
+  magnitudes and directions for near inertial and tidal frequencies. Near
+  inertial fluxes are greater in winter, and are predominantly directed
+  equatorward, while M$_2$ fluxes radiate away from known source regions and
+  are steady throughout the year. Alford estimates the magnitudes of fluxes in
+  some of the regions, and determines that globally significant amounts of
+  energy are being transported across basins. E.g. $\sim$ 12 GW of inertial
+  energy produced in the northern pacific propagates into the south pacific
+  where if dissipated uniformly would yield a depth mean dissipation rate of
+  10$^{-10}$ W kg$^{-1}$ (typical of background thermocline mixing rates).
+  Similarly, calculations near the west pacific trench and Hawaiian ridge
+  indicate that much of the internal tidal energy leaves the source region
+  ($\sim$50\% and 30\% respectively). \end{quotation}
+
+\bibitem{Andrews+Mcintyre:1978}
+D.~Andrews and M.~McIntyre, ``{On wave-action and its relatives},''
+  \emph{Journal of Fluid Mechanics}, vol.~89, pp. 647--664, 1978.
+
+
+\bibitem{Apel:2003}
+J.~Apel, ``{A New Analytical Model for Internal Solitons in the Ocean},''
+  \emph{Journal of Physical Oceanography}, vol.~33, no.~11, pp. 2247--2269,
+  2003.
+
+
+\bibitem{Appenzeller+al:1998}
+C.~Appenzeller, T.~F. Stocker, and M.~Anklin, ``{N}orth {A}tlantic oscillation
+  dynamics recorded in {G}reenland ice cores,'' \emph{Science}, vol. 282, pp.
+  446--449, 1998.
+
+
+\bibitem{Armi+Farmer:1986}
+L.~Armi and D.~Farmer, ``Maximal two-layer exchange through a contraction with
+  barotropic net flow,'' \emph{J. Fluid Mech.}, vol. 164, pp. 27--51, 1986.
+
+
+\bibitem{Armi:1986}
+L.~Armi, ``The hydraulics of two flowing layers with different densities,''
+  \emph{J. Fluid Mech.}, vol. 163, pp. 27--58, 1986.
+
+
+\bibitem{Armi+al:1989}
+L.~Armi, D.~Hebert, N.~Oakey, J.~F. Price, P.~L. Richardson, H.~T. Rossby, and
+  B.~Ruddick, ``Two years in the life of a {M}editerranean salt lens,''
+  \emph{J. Phys. Oceanogr.}, vol.~19, pp. 354--370, 1989.
+
+
+\bibitem{Asplin+al:1999}
+L.~Asplin, A.~Salvanes, and J.~Kristoffersen, ``{Nonlocal wind-driven
+  fjord-coast advection and its potential effect on plankton and fish
+  recruitment},'' \emph{Fisheries Oceanography}, vol.~8, no.~4, pp. 255--263,
+  1999.
+
+
+\bibitem{Baines:1973}
+P.~G. Baines, ``The generation of internal tides by flat-bump topography,''
+  \emph{Deep-Sea Res.}, vol.~20, pp. 179--205, 1973.
+
+
+\bibitem{Baines:1982}
+------, ``On internal tide generation models,'' \emph{Deep-Sea Res.}, vol.~29,
+  no.~3A, pp. 307--338, 1982.
+
+
+\bibitem{Baines:1986}
+------, ``Internal tides, internal waves, and near-intertial motions,'' in
+  \emph{Baroclinic processes on continental shelves}, ser. American Geophysical
+  Union Coastal and Estuarine Sciences Series, C.~N. Mooers, Ed.\hskip 1em plus
+  0.5em minus 0.4em\relax American Geophysical Union, Washington, 1986, vol.~3,
+  ch.~2, pp. 19--31.
+
+
+\bibitem{Baines:1974}
+P.~Baines, ``{The generation of internal tides over steep continental
+  slopes},'' \emph{Philosophical Transactions for the Royal Society of London.
+  Series A, Mathematical and Physical Sciences}, pp. 27--58, 1974.
+
+
+\bibitem{Bakhanov+Ostrovsky:2002}
+V.~Bakhanov and L.~Ostrovsky, ``{Action of strong internal solitary waves on
+  surface waves},'' \emph{Journal of Geophysical Research}, vol. 107, no. C10,
+  pp. 3--1, 2002.
+
+
+\bibitem{Barnett:1985}
+T.~P. Barnett, ``Variations in near-global sea level pressure,'' \emph{J.
+  Atmos. Sci.}, vol.~42, pp. 478--501, 1985.
+
+
+\bibitem{Barros+al:2007}
+R.~Barros, S.~Gavrilyuk, and V.~Teshukov, ``Dispersive nonlinear waves in
+  two-layer flows with free surface. {I}. model derivation and general
+  properties,'' \emph{Studies in Applied Mathematics}, vol. 119, no.~3, pp.
+  191--211, 2007.
+
+
+\bibitem{Batchelor:1959}
+G.~K. Batchelor, ``Small-scale variation of convected quantities like
+  temperature in turbulent fluid,'' \emph{J. Fluid Mech.}, vol.~5, pp.
+  113--133, 1959.
+
+
+\bibitem{Battjes:1974}
+J.~Battjes, ``Computation of set-up, long shore currents, run-up and
+  overtopping due to wind generated waves.'' Delft University of Technology,
+  Dept. of Civil Engineering, Tech. Rep. 74-2, 1974.
+
+
+\bibitem{Beardsley+Haidvogel:1981}
+R.~C. Beardsley and D.~B. Haidvogel, ``Model studies of the wind-driven
+  transient circulation in the {Middle Atlantic Bight} part {I}: adiabatic
+  boundary conditions,'' \emph{J. Phys. Oceanogr.}, vol.~11, pp. 355--375,
+  1981.
+
+
+\bibitem{Bell:1975}
+T.~H. Bell, ``Topographically generated internal waves in the open ocean,''
+  \emph{J. Geophys. Res.}, vol.~80, no.~3, pp. 320--327, 1975.
+
+
+\bibitem{Benes+al:2006}
+N.~Benes, A.~Kasman, and K.~Young, ``{On Decompositions of the KdV
+  2-Soliton},'' \emph{Journal of Nonlinear Science}, vol.~16, no.~2, pp.
+  179--200, 2006.
+
+
+\bibitem{Benjamin+Olver:1982}
+T.~Benjamin and P.~Olver, ``{Hamiltonian structure, symmetries and conservation
+  laws for water waves.}'' \emph{Journal of Fluid Mechanics}, vol. 125, pp.
+  137--185, 1982.
+
+
+\bibitem{Berntsen+al:2006}
+J.~Berntsen, J.~Xing, and G.~Alendal, ``{Assessment of non-hydrostatic ocean
+  models using laboratory scale problems},'' \emph{Continental Shelf Research},
+  vol.~26, no. 12-13, pp. 1433--1447, 2006.
+
+
+\bibitem{Bjornsson+Venegas:1997}
+H.~Bj{\"o}rnsson and S.~A. Venegas, \emph{A manual for {EOF} and {SVD} analyses
+  of climatic data}, Department of Atmospheric and Oceanic Sciences and Centre
+  for Climate and Global Change Research, McGill University, February 1997.
+
+
+\bibitem{Black:1972}
+W.~A. Black, ``Sea-ice as an environmental factor,'' in \emph{Coastal Zone,
+  Seminar Proceedings}, vol.~1.\hskip 1em plus 0.5em minus 0.4em\relax
+  Dartmouth, N.S.: Bedford Inst. Oceanogr., 1972, pp. 3--18.
+
+
+\bibitem{Blayo+Debreu:2005}
+E.~Blayo and L.~Debreu, ``{Revisiting open boundary conditions from the point
+  of view of characteristic variables},'' \emph{Ocean Modelling}, vol.~9, pp.
+  231--252, 2005.
+ \begin{quotation}\noindent Examines various open boundary conditions, in
+  particular the traditional radiation and Orlanski radiation conditions. BD
+  emphasize that radiation conditions are really only appropriate for 1D
+  hyperbolic problems, or at least problems that only have one wave at a time
+  hitting the boundary. Further complications are introduced for waves hitting
+  the boundary at an angle. \end{quotation}
+
+\bibitem{Boegman+Ivey:2009}
+L.~Boegman and G.~Ivey, ``Flow separation and resuspension beneath shoaling
+  nonlinear internal waves,'' \emph{J. Geophys. Res.}, vol. 114, p. C02018,
+  2009.
+ \begin{quotation}\noindent internal wave shoaling, breaking \end{quotation}
+
+\bibitem{Bogucki+al:1997}
+D.~Bogucki, T.~Dickey, and L.~Redekopp, ``{Sediment Resuspension and Mixing by
+  Resonantly Generated Internal Solitary Waves},'' \emph{Journal of Physical
+  Oceanography}, vol.~27, no.~7, pp. 1181--1196, 1997.
+
+
+\bibitem{Bogucki+Garrett:1993}
+D.~Bogucki and C.~Garrett, ``{A Simple Model for the Shear-induced Decay of an
+  Internal Solitary Wave},'' \emph{Journal of Physical Oceanography}, vol.~23,
+  no.~8, pp. 1767--1776, 1993.
+
+
+\bibitem{Booij+al:1999}
+N.~Booij, R.~Ris, and L.~Holthuijsen, ``{A third-generation wave model for
+  coastal regions, Part I, Model description and validation},'' \emph{J.
+  Geophys. Res}, vol. 104, no.~C4, pp. 7649--7666, 1999.
+ \begin{quotation}\noindent Description of the SWAN nearshore wave model. The
+  model predicts the wave action density spectrum, including source terms such
+  as breaking, interactions, growth, white capping, bottom friction, etc.
+  \end{quotation}
+
+\bibitem{Bourgault:2008}
+D.~Bourgault, ``{Shore-based photogrammetry of river ice},'' \emph{Canadian
+  Journal of Civil Engineering}, vol.~35, no.~1, pp. 80--86, 2008.
+
+
+\bibitem{Bourgault+al:2007}
+D.~Bourgault, M.~Blokhina, R.~Mirshak, and D.~Kelley, ``{Evolution of a
+  shoaling internal solitary wavetrain},'' \emph{Geophysical Research Letters},
+  vol.~34, no.~3, 2007.
+ \begin{quotation}\noindent Latest in the SLEIWEX papers, the first to present
+  field data from the 2004 field season. Successive echogram transects display
+  the evolution of a leading ISW from a wavetrain as it shoals and becomes a
+  bolus. Echogram transects agree very well with numerical model runs, and with
+  previous lab experiments. The aspect ratio (a/L=0.4) of the bolus remains
+  relatively constant as it dissipates up the slope. Also used results from
+  Bourgault and Kelley 2007 to estimate reflection coefficient R = 0.19.
+  Suggest that boluses can propagate quite far onshore until htey are
+  dissipated. Also documents the process of waves of elevation forming from
+  waves of depression. \end{quotation}
+
+\bibitem{Bourgault+Kelley:2007}
+D.~Bourgault and D.~Kelley, ``{On the reflectance of uniform slopes for
+  normally incident interfacial solitary waves},'' \emph{J. Phys. Oceanogr.},
+  vol.~37, pp. 1156--1162, 2007.
+ \begin{quotation}\noindent Building on the lab experiments of Helfrich (1992)
+  and Michallet and Ivey (1999), they suggest that sidewall friction was
+  important in the lab experiments, and can have a big effect on quantities
+  such as reflectance. Model runs with parameterized sidewall dissipation with
+  Cd = 0.2 were found to agree with MI results for dissipation of wave energy
+  along the tank. Though MI measured incoming and outgoing wave energies at the
+  bas of the slope so as to be able to ignore frictional effects during
+  breaking, the reflection coefficient found using the model with free-slip
+  sidewalls produced values of R 0.1 higher. Also suggest a parameterization
+  for R as a function of Iribarren number. \end{quotation}
+
+\bibitem{Bourgault+al:2005}
+D.~Bourgault, D.~Kelley, and P.~Galbraith, ``{Interfacial solitary wave run-up
+  in the St. Lawrence Estuary},'' \emph{Journal of Marine Research}, vol.~63,
+  no.~6, pp. 1001--1015, 2005.
+ \begin{quotation}\noindent Follow up on Bourgault and Kelley 2003, with a
+  limited exploratory field program and some numerical modeling. Field program
+  consisted on hydrographic sampling (CTD profiles) before, during, and after
+  ISW runup. Density timeseries compare well with previous lab experiments as
+  well as nonhydrostatic modeling. Consists of a slow drop in rho over ~ 5 min,
+  followed by irregular bursts of high rho water lasting ~ 2min. Calculate
+  breaking depth from the model, which agrees within uncertainties to the
+  criterion of Vlasenko and Hutter (2002). The model reporduces the onshore
+  propagating boluses seen in lab experiments. Finally, an intermediate
+  intrusive later is also apparent propagating offshore after the wave
+  breaking, consistant again with the lab experiemnt of Helfrich 1992.
+  \end{quotation}
+
+\bibitem{Bourgault+Richards:2007}
+D.~Bourgault and C.~Richards, ``{A laboratory experiment on internal solitary
+  waves},'' \emph{American Journal of Physics}, vol.~75, p. 666, 2007.
+
+
+\bibitem{Bourgault:2001}
+D.~Bourgault, F.~Saucier, and C.~Lin, ``{Shear instability in the St. Lawrence
+  Estuary, Canada: A comparison of fine-scale observations and estuarine
+  circulation model results},'' \emph{Journal of Geophysical Research}, vol.
+  106, no.~C5, pp. 9393--9410, 2001.
+
+
+\bibitem{Bourgault+al:2009}
+D.~Bourgault, D.~E. Kelley, and P.~S. Galbraith, ``Turbulence and boluses on an
+  internal beach,'' \emph{J. Atmos. Oceanic Technol.}, vol.~66, no.~5, pp.
+  563--588, 2009.
+
+
+\bibitem{Bourgault+Kelley:2003}
+D.~Bourgault and D.~E. Kelley, ``Wave-induced boundary mixing in a partially
+  mixed estuary,'' \emph{J. Mar. Res.}, vol.~61, no.~5, pp. 553--576, 2003.
+ \begin{quotation}\noindent The beginning of the SLEIWEX papers. Evidence of
+  IWs by georectified images, and some echosounder timeseries. Analysis of the
+  georectified images, along with velocity and density profiles shows the path
+  of the waves as they move toward the Island bank. Use the laterally averaged
+  model (nonlinear and nonhydrostatic) to examine properties of the waves
+  compared to KdV theory, and find that for the observed waves (echogram) the
+  KdV is not sufficient to describe lengthscale, amplitude, or phase speed.
+  They do however find a good agreement for wave energy by comparing that
+  calculated from the model with that predicted by KdV. Using this they
+  calculate the energy of the observed wavetrain. They determine negligible
+  energy is lost to shear, and a small calculable fraction to bottom friction.
+  The using results from lab experiments (Michallet and Ivey 1999) they
+  estimate the increase in potential energy due to mixing caused by the
+  breaking wave. From this, they then estimate the eddy diffusivity, which when
+  compared to the results of a numerical model at that locale, is 50 times
+  greater, suggesting the importance of mixing due to internal waves in
+  specific regions. \end{quotation}
+
+\bibitem{Bourgault+Kelley:2004}
+------, ``A laterally averaged nonhydrostatic ocean model,'' \emph{J. Atmos.
+  Oceanic Technol.}, vol.~21, no.~12, pp. 1910--1924, 2004.
+
+
+\bibitem{Bretherton:1966}
+F.~Bretherton, ``{The propagation of groups of internal gravity waves in a
+  shear flow},'' \emph{Quart. J. Roy. Meteor. Soc}, vol.~92, pp. 466--480,
+  1966.
+
+
+\bibitem{Bretherton:1968}
+------, ``{Propagation in Slowly Varying Waveguides},'' \emph{Proceedings of
+  the Royal Society of London. Series A, Mathematical and Physical Sciences},
+  vol. 302, no. 1471, pp. 555--576, 1968.
+
+
+\bibitem{Bretherton:1970}
+------, ``{A note on Hamilton's principle for perfect fluids},'' \emph{Journal
+  of Fluid Mechanics}, vol.~44, pp. 19--31, 1970.
+
+
+\bibitem{Bretherton+Garrett:1969}
+F.~Bretherton and C.~Garrett, ``{Wavetrains in Inhomogeneous Moving Media},''
+  \emph{Proceedings of the Royal Society of London. Series A, Mathematical and
+  Physical Sciences}, vol. 302, no. 1471, pp. 529--554, 1969.
+
+
+\bibitem{Bretschneider+al:1985}
+D.~E. Bretschneider, G.~A. Cannon, J.~R. Holbrook, and D.~J. Pashinski,
+  ``Variability of subtidal current structure in a fjord estuary: {P}uget
+  {S}ound, {W}ashington,'' \emph{J. Geophys. Res.}, vol.~90, no.~C6, pp.
+  11\,949--11\,958, 1985.
+
+
+\bibitem{Brickman+Loder:1993}
+D.~Brickman and J.~Loder, ``{Energetics of the internal tide on northern
+  Georges Bank},'' \emph{Journal of Physical Oceanography}, vol.~23, no.~3, pp.
+  409--424, 1993.
+
+
+\bibitem{Brown+Sutherland:2007}
+G.~Brown and B.~Sutherland, ``{Internal Wave Tunnelling Through Non-uniformly
+  Stratified Shear Flow},'' \emph{Atmosphere Ocean}, vol.~45, no.~1, pp.
+  47--56, 2007.
+ \begin{quotation}\noindent They examine the transmission of IWs through an
+  ``$N^2$ barrier" and a ``mixed $N^2$ region when there is shear present.
+  Essentially an extension of Sutherland and Yewchuck (2004) which didn't
+  include shear. The addition of shear requires some stability consideration,
+  though they find the timescales for instability are longer than those for
+  wave transmission through the barrier. Presence of shear also requires
+  consideration of ``Pseudoenergy" instead of energy, due to interaction of the
+  waves and the flow. Pseudoenergy is conserved (it is proportional to the
+  action) and is given by the energy multiplied by $\omega / \Omega$, where
+  $\Omega$ is the relative frequency given by $\Omega(z) = \omega - kU(z)$.
+  \emph{How does this pseudoenergy relate to KE + APE??} \\ {\bf More notes:}
+  The presence of shear means that tunneling internal waves also have to
+  contend with a critical level (where the mean current is equal to the
+  horizontal wave speed, so that $\Omega(z) = 0$). As long as the horizontal
+  phase speed of the waves matches the flow speed in the upper layer, there is
+  no transmission (obviously). If the critical level occurs in the region where
+  $N =0$ though, the waves may transmit through it. The reason the waves can
+  cross the critical level is because they are evanescent in the shear region,
+  not wave-like. In fact, they find nearly perfect transmission for $kL \leq 2$
+  and $\omega \leq N_0$ if $Ri = 1$. \\For the mixed $N^2$ barrier (when $N^2$
+  is discontinuous), no waves are transmitted when $0 < c < U_0$, however there
+  is much more transmission otherwise, as well as a strong transmission spike
+  at $\omega \leq N_0$ and $kL \simeq 2.4$. In other words, the presence of
+  density discontinuities serves to enhance transmission when no critical level
+  is reached, but completely inhibits it otherwise. \end{quotation}
+
+\bibitem{Caceres+al:2002}
+M.~C{\'a}ceres, A.~Valle-Levinson, H.~Sep{\'u}lveda, and K.~Holderied,
+  ``{Transverse variability of flow and density in a Chilean fjord},''
+  \emph{Continental Shelf Research}, vol.~22, no. 11-13, pp. 1683--1698, 2002.
+
+
+\bibitem{Caldwell+Chriss:1979}
+D.~Caldwell and T.~Chriss, ``{The Viscous Sublayer at the Sea Floor},''
+  \emph{Science}, vol. 205, no. 4411, pp. 1131--1132, 1979.
+
+
+\bibitem{Cameron+Pritchard:1963}
+W.~M. Cameron and D.~W. Pritchard, ``Estuaries,'' in \emph{The sea}, M.~N.
+  Hill, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Wiley, New York, 1963,
+  vol.~2, pp. 306--324.
+
+
+\bibitem{Chang+al:2006}
+M.~Chang, R.~Lien, T.~Tang, E.~D'Asaro, and Y.~Yang, ``{Energy flux of
+  nonlinear internal waves in northern South China Sea},'' \emph{Geophysical
+  Research Letters}, vol.~33, no.~3, 2006.
+ \begin{quotation}\noindent This paper is the butt end of criticism from Lamb
+  2007, Scotti et al 2006, and Moum et al 2006, for not including nonlinear
+  self advection of energy in their energy flux calculations. They first
+  calculate internal wave energy by computing spectra, and then integrating the
+  spectra over frequency bands of interest (NLIW band, semidiurnal band,
+  diurnal band). To overcome the fact that 2 of their ADCPs only covered the
+  upper half of the water column, they used normal mode analysis to compute
+  vertically integrated energies. \\ They compute energy flux two ways, \[
+  \vec{F} = \int \vec{C_g} E dz \] and \[ \vec{F} = \int <p' \vec{u}' dz \]
+  $\vec{C_g}$ is determined separately for the NLIWs (from some kind of
+  harmonic analysis?) and for the tides (from IW dispersion relation and normal
+  mode analysis). They calculate $p'$ by \[ p' = p_{surf} + \int_z^0 \rho' g dz
+  \] where $\rho'$ is estimated from isopycnal displacement determined from
+  time integration of the vertical velocity. Because of the large difference in
+  energy flux between 2 stations, they estimate that dissipation is the cause,
+  and calculated a kinetic energy dissipation rate as \[ \varepsilon =
+  \frac{\Delta F}{\Delta s} \] To get this they take the energy equation \[
+  \frac{\partial E}{\partial t} + ( \vec{u} \cdot \nabla) E = \nabla \cdot
+  \vec{F} - \varepsilon \] and assume $\frac{\partial E}{\partial t}$ and
+  $(\vec{u} \dot \nabla) E$ are small. For NLIWs this clearly is no good as the
+  previously mention critiquing papers show that the self advection can account
+  for $\sim$50\% of the energy flux. \end{quotation}
+
+\bibitem{Chang+al:2008}
+M.~Chang, R.~Lien, Y.~Yang, T.~Tang, and J.~Wang, ``A composite view of surface
+  signatures and interior properties of nonlinear internal waves: Observations
+  and applications,'' \emph{J. Atmos. Oceanic Technol.}, vol.~25, no.~7, pp.
+  1218–--1227, 2008.
+
+
+\bibitem{Chapman:1985}
+D.~C. Chapman, ``Numerical treatment of cross-shelf open boundaries in a
+  barotropic coastal ocean model,'' \emph{J. Phys. Oceanogr.}, vol.~15, pp.
+  1060--1075, 1985.
+
+
+\bibitem{Chelton+al:1998}
+D.~Chelton, R.~Deszoeke, M.~Schlax, K.~El~Naggar, and N.~Siwertz,
+  ``{Geographical variability of the first baroclinic Rossby radius of
+  deformation},'' \emph{Journal of Physical Oceanography}, vol.~28, no.~3, pp.
+  433--460, 1998.
+ \begin{quotation}\noindent Nice summary of the vertical mode eigenvalue
+  problem in the Appendices. \end{quotation}
+
+\bibitem{Chen+al:2007}
+C.~Chen, J.~Hsu, M.~Cheng, H.~Chen, and C.~Kuo, ``{An investigation on internal
+  solitary waves in a two-layer fluid: Propagation and reflection from steep
+  slopes},'' \emph{Ocean Engineering}, vol.~34, no.~1, pp. 171--184, 2007.
+
+
+\bibitem{Comeau+al:1998}
+M.~Comeau, G.~Y. Conan, F.~Maynou, G.~Robichaud, J.-C. Therriault, and
+  M.~Starr, ``Growth, spatial distribution, and abundance of benthic stages of
+  the snow crab ({C}hionoecetes opilio) in {Bonne Bay}, {N}ewfoundland,
+  {C}anada,'' \emph{Can. J. Fish. Aquat. Sci.}, vol.~55, pp. 262--279, 1998.
+
+
+\bibitem{Cottier+al:2005}
+F.~Cottier, V.~Tverberg, M.~Inall, H.~Svendsen, F.~Nilsen, and C.~Griffiths,
+  ``{Water mass modification in an Arctic fjord through cross-shelf exchange:
+  The seasonal hydrography of Kongsfjorden, Svalbard},'' \emph{Journal of
+  Geophysical Research}, vol. 110, no. C12, 2005.
+
+
+\bibitem{Csandy:1978}
+G.~T. Csanady, ``The arrested topographic wave,'' \emph{J. Phys. Oceanogr.},
+  vol.~8, pp. 47--62, 1978.
+
+
+\bibitem{Csanady:1984}
+------, \emph{Circulation in the Coastal Ocean}, ser. Environmental Fluid
+  Mechanics.\hskip 1em plus 0.5em minus 0.4em\relax D. Reidel Publishing
+  Company, 1984.
+
+
+\bibitem{Cummins+al:2003}
+P.~Cummins, S.~Vaigle, L.~Armi, and D.~Farmer, ``{Stratified flow over
+  topography: upstream influence and generation of nonlinear internal waves},''
+  \emph{Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences}, vol. 459, no. 2034, pp. 1467--1487, 2003.
+
+
+\bibitem{Curry:1976}
+S.~Curry, ``{How children swing},'' \emph{American Journal of Physics},
+  vol.~44, p. 924, 1976.
+
+
+\bibitem{daSilva+Helfrich:2008}
+J.~C.~B. da~Silva and K.~R. Helfrich, ``Synthetic aperture radar observations
+  of resonantly generated internal solitary waves at {Race Point Channel (Cape
+  Cod)},'' \emph{J. Phys. Oceanogr.}, vol. 113, no. C11016, 2008.
+
+
+\bibitem{daSilva+al:2009}
+J.~C.~B. da~Silva, A.~L. New, and J.~M. Magalhaes, ``Internal solitary waves in
+  the {Mozambique} channel: Observations and interpretation,'' \emph{J.
+  Geophys. Res.}, vol. 114, p. C05001, 2009.
+ \begin{quotation}\noindent Another paper examing internal solitary wave
+  packets generated from tidal flow over a shelf break using satellite SAR
+  images. Of particular not here is that they identify waves with two different
+  generation mechanisms: the typical barotropic tidal flow over the shelf break
+  to generate high frequency interfacial waves, and a mechanism termed ``local
+  generation'' which involves generation of an internal tidal beam at the shelf
+  break which re-emerges at the surface some distance away, causing internal
+  wave generation through interaction with the pycnocline there. Also of note
+  is they produce maps of the ``barotropic body force'' of Baines (1982) and
+  use this to justify the particular shelf break region as being an internal
+  wave hot-spot. \end{quotation}
+
+\bibitem{deYoung+al:2005}
+B.~de~Young, K.~M. Brown, R.~S. Adams, and S.~D. McLean, ``Design and
+  deployment of the {B}onne {B}ay observatory ({B2O}),'' \emph{Oceans 2005},
+  pp. 1--6, 2005.
+
+
+\bibitem{deYoung+Pond:1988}
+B.~de~Young and S.~Pond, ``The deepwater exchange cycle in {I}ndian {A}rm,
+  {B}ritish {C}olumbia,'' \emph{Estuarine Coastal Shelf Sci.}, vol.~26, pp.
+  285--308, 1988.
+
+
+\bibitem{Deines:1999}
+K.~L. Deines, ``Backscatter estimation using broadband acoustic {D}oppler
+  current profilers,'' in \emph{Proc. of IEEE 6th working conference on current
+  measurement}, San Diego, CA, 1999, pp. 249--253.
+
+
+\bibitem{Dewey+al:2005}
+R.~Dewey, D.~Richmond, and C.~Garrett, ``{Stratified tidal flow over a bump},''
+  \emph{Journal of Physical Oceanography}, vol.~35, no.~10, pp. 1911--1927,
+  2005.
+ \begin{quotation}\noindent A paper about topographic Froude number, from the
+  west coast. \end{quotation}
+
+\bibitem{Dickson+al:1996}
+R.~R. Dickson, J.~Lazier, J.~Meincke, P.~Rhines, and J.~Swift, ``Long-term
+  coordinated changes in the convective activity of the {North Atlantic},''
+  \emph{Progr. Oceanogr.}, vol.~38, pp. 214--295, 1996.
+
+
+\bibitem{Dillon+Caldwell:1980}
+T.~M. Dillon and D.~R. Caldwell, ``the {B}atchelor spectrum and dissipation in
+  the upper ocean,'' \emph{J. Geophys. Res.}, vol.~85, no.~C4, pp. 1910--1916,
+  1980.
+
+
+\bibitem{Djordjevic+Redekopp:1978}
+V.~D. Djordjevic and L.~G. Redekopp, ``The fission and disintegration of
+  internal solitary waves moving over two-dimensional topography,'' \emph{J.
+  Phys. Oceanogr.}, vol.~8, pp. 1016--1024, 1978.
+
+
+\bibitem{Dohan+Sutherland:2003}
+K.~Dohan and B.~Sutherland, ``{Internal waves generated from a turbulent mixed
+  region},'' \emph{Physics of Fluids}, vol.~15, p. 488, 2003.
+
+
+\bibitem{Dower+al:1998}
+J.~F. Dower, P.~Pepin, and W.~C. Leggett, ``Enhanced gut fullness, and an
+  apparent shift in size selectivity by radiated shanny \textit{Ulvaria
+  subbifurcata} larvae in response to increased turbulence,'' \emph{Can. J.
+  Fish. Aquat. Sci.}, vol.~55, pp. 128--142, 1998.
+
+
+\bibitem{Durran:2001}
+D.~Durran, ``{Open boundary conditions: fact and fiction},'' in \emph{IUTAM
+  Symposium on Advances in mathematical modeling of Atmosphere and Ocean
+  dynamics}, P.~Hodnett, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Kluwer
+  academic publishers, 2001.
+ \begin{quotation}\noindent An overview of the problems inherent in choosing
+  open boundary conditions, with some striking figures showing the effect of
+  simply choosing a boundary in a different location. Also, emphasizes the
+  weaknesses of radiation and orlanski radiation conditions by indicating how
+  often $c$ must be set to either 0 or its maximum value, especially after the
+  first few time steps (see Figure 5). \end{quotation}
+
+\bibitem{Dyer:1997}
+K.~R. Dyer, \emph{Estuaries: a physical introduction}, 2nd~ed.\hskip 1em plus
+  0.5em minus 0.4em\relax John Wiley \& Sons Ltd, Chichester, 1997.
+
+
+\bibitem{Edwards+al:2004}
+K.~Edwards, P.~MacCready, J.~Moum, G.~Pawlak, J.~Klymak, and A.~Perlin, ``{Form
+  Drag and Mixing Due to Tidal Flow past a Sharp Point},'' \emph{Journal of
+  Physical Oceanography}, vol.~34, no.~6, pp. 1297--1312, 2004.
+
+
+\bibitem{Egbert+Ray:2000}
+G.~D. Egbert and R.~D. Ray, ``Significant dissipation of tidal energy in the
+  deep ocean inferred from satellite altimeter data,'' \emph{Nature}, vol. 405,
+  pp. 775--778, 2000.
+
+
+\bibitem{Egbert+Ray:2001}
+------, ``Estimates of {M2} tidal energy dissipation from {TOPEX/Posiedon}
+  altimeter data,'' \emph{J. Geophys. Res.}, vol. 106, no. C10, pp.
+  22\,475--22\,502, 2001.
+
+
+\bibitem{Eliezer+Gray:1976}
+C.~Eliezer and A.~Gray, ``{A Note on the Time-Dependent Harmonic Oscillator},''
+  \emph{SIAM Journal on Applied Mathematics}, vol.~30, no.~3, pp. 463--468,
+  1976.
+
+
+\bibitem{Ellison+Turner:1959}
+T.~H. Ellison and J.~S. Turner, ``Turbulent entrainment in stratified flows,''
+  \emph{J. Fluid Mech.}, vol.~6, pp. 423--448, 1959.
+
+
+\bibitem{Emery+Thomson:1998}
+W.~J. Emery and R.~E. Thomson, \emph{Data analysis methods in physical
+  oceanography}, 1st~ed.\hskip 1em plus 0.5em minus 0.4em\relax Elsevier
+  Science Ltd., 1998.
+
+
+\bibitem{Ennis+al:1990}
+G.~P. Ennis, R.~G. Hooper, and D.~M. Taylor, ``Changes in the composition of
+  snow crab ({C}hionoecetes opilio) participating in the annual breeding
+  migration in {B}onne {B}ay, {N}ewfoundland,'' \emph{Can. J. Fish. Aquat.
+  Sci.}, vol.~47, no.~11, pp. 2242--2249, 1990.
+
+
+\bibitem{Farmer+al:2002}
+D.~Farmer, R.~Pawlowicz, and R.~Jiang, ``{Tilting separation flows: a mechanism
+  for intense vertical mixing in the coastal ocean},'' \emph{Dynamics of
+  Atmospheres and Oceans}, vol.~36, no. 1-3, pp. 43--58, 2002.
+
+
+\bibitem{Farmer:1976}
+D.~M. Farmer, ``The influence of wind on the surface layer of a stratified
+  inlet: part {II}. analysis,'' \emph{J. Phys. Oceanogr.}, vol.~6, pp.
+  941--952, 1976.
+
+
+\bibitem{Farmer+Armi:1986}
+D.~M. Farmer and L.~Armi, ``Maximal two-layer exchange over a sill and through
+  the combination of a sill and contraction with barotropic flow,'' \emph{J.
+  Fluid Mech.}, vol. 164, pp. 53--76, 1986.
+
+
+\bibitem{Farmer+Osborn:1976}
+D.~M. Farmer and T.~R. Osborn, ``The influence of wind on the surface layer of
+  a stratified inlet: part i. observations,'' \emph{J. Phys. Oceanogr.},
+  vol.~6, pp. 931--940, 1976.
+
+
+\bibitem{Farmer+Armi:1999}
+D.~Farmer and L.~Armi, ``Stratified flow over topography: the role of
+  small-scale entrainment and mixing in flow establishment,'' \emph{Proc. R.
+  Soc. Lond. A}, vol. 455, pp. 3221--3258, 1999.
+
+
+\bibitem{Farmer:1982}
+D.~M. Farmer, ``Stratified flow over sills,'' in \emph{{Coastal Oceanography}},
+  H.~Gade, A.~Edwards, and H.~Svendson, Eds.\hskip 1em plus 0.5em minus
+  0.4em\relax {Plenum, New York}, 1982, pp. 337--362.
+
+
+\bibitem{Farmer+Freeland:1983}
+D.~M. Farmer and H.~J. Freeland, ``The physical oceanography of fjords,''
+  \emph{Progr. Oceanogr.}, vol.~12, pp. 147--220, 1983.
+
+
+\bibitem{Farmer+Smith:1980}
+D.~M. Farmer and J.~D. Smith, ``Tidal interaction of stratified flow with a
+  sill in {K}night {I}nlet,'' \emph{Deep-Sea Res.}, vol. 27A, pp. 239--254,
+  1980.
+
+
+\bibitem{Farmer+al:1995}
+D.~Farmer, E.~D'asaro, M.~Trevorrow, and G.~Dairiki, ``{Three-dimensional
+  structure in a tidal convergence front},'' \emph{Continental Shelf Research},
+  vol.~15, no.~13, pp. 1649--1673, 1995.
+
+
+\bibitem{Flynn+Sutherland:2004}
+M.~Flynn and B.~Sutherland, ``{Intrusive gravity currents and internal gravity
+  wave generation in stratified fluid},'' \emph{Journal of Fluid Mechanics},
+  vol. 514, pp. 355--383, 2004.
+
+
+\bibitem{Forrester:1974}
+W.~D. Forrester, ``Internal tides in {St.~Lawrence Estuary},'' \emph{J. Mar.
+  Res.}, vol.~32, pp. 55--66, 1974.
+
+
+\bibitem{Franks:2001}
+P.~J.~S. Franks, ``Turbulence avoidance: An explanation of turbulence-enhanced
+  ingestion rates in the field,'' \emph{Limnol. Oceanogr.}, vol.~46, no.~4, pp.
+  959--963, 2001.
+
+
+\bibitem{Freeland+Farmer:1980}
+H.~J. Freeland and D.~M. Farmer, ``Circulation and energetics of a deep,
+  strongly stratified inlet,'' \emph{Can. J. Fish. Aquat. Sci.}, vol.~37, pp.
+  1398--1410, 1980.
+
+
+\bibitem{Fringer+Street:2003}
+O.~Fringer and R.~Street, ``{The dynamics of breaking progressive interfacial
+  waves},'' \emph{Journal of Fluid Mechanics}, vol. 494, pp. 319--353, 2003.
+
+
+\bibitem{Fructus+al:2009}
+D.~Fructus, M.~Carr, J.~Grue, A.~Jensen, and P.~A. Davies, ``Shear-induced
+  breaking of large internal solitary waves,'' \emph{J. Fluid Mech.}, vol. 620,
+  pp. 1--29, 2009.
+
+
+\bibitem{Galbraith+al:2004}
+P.~S. Galbraith, H.~I. Browman, R.~G. Racca, A.~B. Skiftesvik, and J.-F.
+  Saint-Pierre, ``Effect of turbulence on the energetics of foraging in
+  {A}tlantic cod \textit{{G}adus morhua} larvae,'' \emph{Mar. Ecol. Prog.
+  Ser.}, vol. 281, pp. 241--257, 2004.
+
+
+\bibitem{Galbraith+Kelley:1996}
+P.~Galbraith and D.~Kelley, ``{Identifying Overturns in CTD Profiles},''
+  \emph{Journal of Atmospheric and Oceanic Technology}, vol.~13, no.~3, pp.
+  688--702, 1996.
+
+
+\bibitem{Gargett:1976}
+A.~Gargett, ``{Generation of internal waves in the Strait of Georgia},''
+  \emph{British Columbia. Deep-Sea Res}, vol.~23, no.~3, pp. 17--32, 1976.
+
+
+\bibitem{Gargett+Garner:2008}
+A.~Gargett and T.~Garner, ``Determining thorpe scales from ship-lowered ctd
+  density profiles,'' \emph{J. Atmos. Oceanic Technol.}, vol.~25, no.~9, pp.
+  1657--1670, 2008.
+ \begin{quotation}\noindent An article describing the latest techniques for
+  determining Thorpe scales from ship-lowered CTD profiles. The authors address
+  several important issues, including: the need to identify and correct ship
+  effects, optimizing the calculation of density - necessary because of
+  salinity spiking and thermal lag effects arising from sensor limitations, and
+  validation of overturn identification - both due to random noise and residual
+  sensor effects. The authors compare heavily against Galbraith and Kelley
+  1996, whose criteria they found did not work adequately enough for their data
+  set. In particular, they believe that a diagnostic based on measurement of
+  tightness with the T-S relationship (such as that used by GK96( is not
+  warranted, and therefore not recommended. Applying techniques such as this to
+  much of the world CTD profiles, however, could begin to produce an
+  interesting database of mixing and turbulence measurements, without the use
+  of microstructure profilers. \end{quotation}
+
+\bibitem{Garrett:1974}
+C.~Garrett, ``Ocean tides,'' \emph{Geoscience Canada}, vol.~1, no.~4, pp.
+  8--14, 1974.
+
+
+\bibitem{Garrett:1984}
+------, ``Tides and tidal power in the {Bay of Fundy},'' \emph{Endeavour, New
+  Series}, vol.~8, no.~2, pp. 58--64, 1984.
+
+
+\bibitem{Garrett:2001}
+------, ``{What is the ``Near-Inertial" Band and Why Is It Different from the
+  Rest of the Internal Wave Spectrum?}'' \emph{Journal of Physical
+  Oceanography}, vol.~31, no.~4, pp. 962--971, 2001.
+
+
+\bibitem{Garrett+Gerkema:2007}
+C.~Garrett and T.~Gerkema, ``{On the body-force term in internal-tide
+  generation},'' \emph{Journal of Physical Oceanography}, vol.~37, no.~8, pp.
+  2172--2175, 2007.
+
+
+\bibitem{Garrett+al:1993}
+C.~Garrett, P.~MacCready, and P.~Rhines, ``Boundary mixing and arrested {E}kman
+  layers: rotating stratified flow near a sloping boundary,'' \emph{Annu. Rev.
+  Fluid Mech.}, vol.~25, pp. 291--323, 1993.
+
+
+\bibitem{Garrett+Munk:1975}
+C.~Garrett and W.~Munk, ``{Space-time scales of internal waves: A progress
+  report},'' \emph{Journal of Geophysical Research}, vol.~80, no.~C3, pp.
+  291--298, 1975.
+
+
+\bibitem{Garrett+Munk:1979}
+------, ``{Internal Waves in the Ocean},'' \emph{Annual Reviews in Fluid
+  Mechanics}, vol.~11, no.~1, pp. 339--369, 1979.
+
+
+\bibitem{Garrett+Petrie:1981}
+C.~Garrett and B.~Petrie, ``Dynamical aspects of the flow through the {S}trait
+  of {B}elle {I}sle,'' \emph{J. Phys. Oceanogr.}, vol.~11, pp. 376--393, 1981.
+
+
+\bibitem{Garrett+Toulany:1981}
+C.~Garrett and B.~Toulany, ``Variability of the flow through the {S}trait of
+  {B}elle-{I}sle,'' \emph{J. Mar. Res.}, vol.~39, pp. 163--189, 1981.
+
+
+\bibitem{Garrett:1967}
+C.~Garrett, ``{Discussion: The Adiabatic Invariant for Wave Propagation in a
+  Nonuniform Moving Medium},'' \emph{Proceedings of the Royal Society of
+  London. Series A, Mathematical and Physical Sciences}, vol. 299, no. 1456,
+  pp. 26--27, 1967.
+ \begin{quotation}\noindent Garrett's first suggestion of the wave action
+  conservation equation. Proof follows in Bretherton and Garrett 1968
+  \end{quotation}
+
+\bibitem{Garrett:1968}
+------, ``{On the Interaction Between Internal Gravity Waves and a Shear
+  Flow},'' \emph{J. Fluid Mech}, vol.~34, pp. 711--720, 1968.
+ \begin{quotation}\noindent A follow up to Bretherton and Garrett 1968,
+  applying the concept of wave action conservation to internal gravity waves in
+  a shear flow. Has a nice re-derivation of wave action conservation, and a
+  short discussion of the "interaction stress tensor". \end{quotation}
+
+\bibitem{Garvine:1985}
+R.~W. Garvine, ``A simple model of estuarine subtidal fluctuations forced by
+  local and remote wind stress,'' \emph{J. Geophys. Res.}, vol.~90, no.~C6, pp.
+  11\,945--11\,948, 1985.
+
+
+\bibitem{Gemmrich+Garrett:2008}
+J.~Gemmrich and C.~Garrett, ``Unexpected waves,'' \emph{J. Phys. Oceanogr.},
+  vol.~38, no.~10, pp. 2330--2336, 2008.
+
+
+\bibitem{Gent+al:1995}
+P.~R. Gent, J.~Willebrand, T.~J. McDougall, and J.~C. McWilliams,
+  ``Parameterizing eddy-induced tracer transports in ocean circulation
+  models,'' \emph{J. Phys. Oceanogr.}, vol.~25, pp. 463--474, 1995.
+
+
+\bibitem{Gent:1990}
+P.~Gent and J.~Mcwilliams, ``{Isopycnal Mixing in Ocean Circulation Models},''
+  \emph{Journal of Physical Oceanography}, vol.~20, no.~1, pp. 150--155, 1990.
+
+
+\bibitem{Geyer+Cannon:1982}
+W.~R. Geyer and G.~A. Cannon, ``Sill processes related to deep water renewal in
+  a fjord,'' \emph{J. Geophys. Res.}, vol.~87, pp. 7985--7996, 1982.
+
+
+\bibitem{Geyer+al:2000}
+W.~R. Geyer, J.~H. Trowbridge, and M.~M. Bowen, ``The dynamics of a partially
+  mixed estuary,'' \emph{J. Phys. Oceanogr.}, vol.~30, pp. 2035--2048, 2000.
+
+
+\bibitem{Gibson+Schwarz:1963}
+C.~H. Gibson and W.~H. Schwarz, ``The universal equilibrium spectra of
+  turbulent velocity and scalar fields,'' \emph{J. Fluid Mech.}, vol.~16,
+  no.~3, pp. 365--384, 1963.
+
+
+\bibitem{Gilbert+Pettigrew:1993}
+D.~Gilbert and B.~Pettigrew, ``Current-meter data from {B}onne {B}ay,
+  {N}ewfoundland, during the summer of 1991,'' Minist\`ere des P\^eches et des
+  Oc\'eans, Division Physique du milieu marin, Institut Maurice-Lamontagne,
+  Canadian Data Report of Hydrography and Ocean Sciences 122, 1993.
+
+
+\bibitem{Gilbert+Buskey:2005}
+O.~M. Gilbert and E.~J. Buskey, ``Turbulence decreases the hydrodynamic
+  predator sensing ability of the calanoid copepod \textit{Acartia tonsa},''
+  \emph{J. Plankton Res.}, vol.~27, no.~10, pp. 1067--1071, 2005.
+
+
+\bibitem{Gill+Turner:1976}
+A.~E. Gill and J.~S. Turner, ``A comparison of seasonal thermocline models with
+  observation,'' \emph{Deep-Sea Res.}, vol.~23, pp. 391--401, 1976.
+
+
+\bibitem{Gill:1982}
+A.~E. Gill, \emph{Atmosphere-ocean dynamics}, ser. International geophysics
+  series.\hskip 1em plus 0.5em minus 0.4em\relax New York: Academic Press,
+  1982, vol.~30.
+
+
+\bibitem{Gille:1994}
+S.~T. Gille, ``Mean sea surface height of the {Antarctic Circumpolar Current}
+  from {G}eosat data: method and application,'' \emph{J. Geophys. Res.},
+  vol.~99, no.~C9, pp. 18\,255--18\,273, 1994.
+
+
+\bibitem{Gille+al:2001}
+S.~T. Gille, D.~P. Stevens, R.~T. Tokmakian, and K.~J. Heywood, ``{Antarctic
+  Circumpolar Current} response to zonally averaged winds,'' \emph{J. Geophys.
+  Res.}, vol. 106, no.~C2, pp. 2743--2759, 2001.
+
+
+\bibitem{Gillibrand+al:1995}
+P.~A. Gillibrand, W.~R. Turrell, and A.~J. Elliot, ``Deep water renewal in the
+  upper basin of {L}och {S}unart, a {S}cottish fjord,'' \emph{J. Phys.
+  Oceanogr.}, vol.~25, pp. 1488--1503, 1995.
+
+
+\bibitem{Godin:1980}
+G.~Godin, ``Cotidal charts for {C}anada,'' Marine Sciences and Information
+  Directorate, Department of Fisheries and Oceans, Manuscript Report Series~55,
+  1980.
+
+
+\bibitem{Greatbatch+Otterson:1991}
+R.~J. Greatbatch and T.~Otterson, ``On the formulation of open boundary
+  conditions at the mouth of a bay,'' \emph{J. Geophys. Res.}, vol.~96, no.
+  C10, pp. 18\,431--18\,445, 1991.
+
+
+\bibitem{Greatbatch:2000}
+R.~J. Greatbatch, ``The {North Atlantic Oscillation},'' \emph{Stochastic
+  Environmental Research and Risk Assessment}, vol.~14, pp. 213--242, 2000.
+
+
+\bibitem{Greatbatch+al:1991}
+R.~J. Greatbatch, A.~F. Fanning, and A.~D. Goulding, ``A diagnosis of
+  interpentadal circulation changes in the the {North Atlantic},'' \emph{J.
+  Geophys. Res.}, vol.~96, no. C12, pp. 22\,009--22\,023, 1991.
+
+
+\bibitem{Greenberg:1987}
+D.~Greenberg, ``Modeling tidal power,'' \emph{Scientific American}, pp.
+  128--131, Nov. 1987.
+
+
+\bibitem{Grimshaw:1979}
+R.~Grimshaw, ``{Slowly Varying Solitary Waves. I. Korteweg-De Vries
+  Equation},'' \emph{Proceedings of the Royal Society of London. Series A,
+  Mathematical and Physical Sciences}, vol. 368, no. 1734, pp. 359--375, 1979.
+
+
+\bibitem{Grimshaw:1984}
+------, ``{Wave Action and Wave-Mean Flow Interaction, with Application to
+  Stratified Shear Flows},'' \emph{Annual Review of Fluid Mechanics}, vol.~16,
+  no.~1, pp. 11--44, 1984.
+
+
+\bibitem{Grimshaw:1997}
+------, ``{Internal solitary waves},'' \emph{Advances in Coastal and Ocean
+  Engineering}, vol.~3, 1997.
+
+
+\bibitem{Grimshaw+al:2001}
+R.~Grimshaw, D.~Pelinovsky, E.~Pelinovsky, and T.~Talipova, ``{Wave group
+  dynamics in weakly nonlinear long-wave models},'' \emph{Physica D: Nonlinear
+  Phenomena}, vol. 159, no. 1-2, pp. 35--57, 2001.
+
+
+\bibitem{Grimshaw+al:2004}
+R.~Grimshaw, E.~Pelinovsky, T.~Talipova, and A.~Kurkin, ``{Simulation of the
+  Transformation of Internal Solitary Waves on Oceanic Shelves},''
+  \emph{Journal of Physical Oceanography}, vol.~34, no.~12, pp. 2774--2791,
+  2004.
+
+
+\bibitem{Grimshaw+al:1998}
+R.~Grimshaw, L.~Ostrovsky, V.~Shrira, and Y.~Stepanyants, ``{Long Nonlinear
+  Surface and Internal Gravity Waves in a Rotating Ocean},'' \emph{Surveys in
+  Geophysics}, vol.~19, no.~4, pp. 289--338, 1998.
+
+
+\bibitem{Grue:2005}
+J.~Grue, ``{Generation, propagation, and breaking of internal solitary
+  waves},'' \emph{Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  vol.~15, p. 037110, 2005.
+
+
+\bibitem{Grue+al:2000}
+J.~Grue, A.~Jensen, P.~Rus{\aa}s, and J.~Sveen, ``{Breaking and broadening of
+  internal solitary waves},'' \emph{Journal of Fluid Mechanics}, vol. 413, pp.
+  181--217, 2000.
+
+
+\bibitem{Grue+al:1999}
+J.~Grue, A.~Jensen, P.-O. Rusas, and J.~K. Sveen, ``Properties of
+  large-amplitude internal waves,'' \emph{J. Fluid Mech.}, vol. 380, pp.
+  257--278, 1999.
+
+
+\bibitem{Hamdi+al:2004}
+S.~Hamdi, W.~Enright, W.~Schiesser, and J.~Gottlieb, ``{Exact solutions and
+  invariants of motion for general types of regularized long wave equations},''
+  \emph{Mathematics and Computers in Simulation}, vol.~65, no. 4-5, pp.
+  535--545, 2004.
+ \begin{quotation}\noindent Talk abouts some analytical solitary wave solutions
+  to nonlinear wave equations, and uses Maple to derive some expressions for 3
+  invariants of motion (mass, energy, and a third ``unnamed'' invariant similar
+  to Whitham's. \end{quotation}
+
+\bibitem{Hansen+Rattray:1965}
+D.~V. Hansen and M.~Rattray, ``Gravitational circulation in straits and
+  estuaries,'' \emph{J. Mar. Res.}, vol.~23, pp. 104--122, 1965.
+
+
+\bibitem{Hansen+Rattray:1966}
+D.~V. Hansen and M.~J. Rattray, ``New dimensions in estuary classification,''
+  \emph{Limnol. Oceanogr.}, vol.~11, pp. 319--326, 1966.
+
+
+\bibitem{Hebert:1988}
+D.~Hebert, ``{The available potential energy of an isolated feature},''
+  \emph{Journal of Geophysical Research}, vol.~93, no.~C1, pp. 556--564, 1988.
+
+
+\bibitem{Helfrich:1992}
+K.~R. Helfrich, ``Internal solitary wave breaking and run-up on a uniform
+  slope,'' \emph{J. Fluid Mech.}, vol. 243, pp. 133--154, 1992.
+
+
+\bibitem{Helfrich:2008}
+------, ``Continuously stratified nonlinear low-mode internal tides,'' \emph{J.
+  Mar. Res.}, vol.~66, no.~3, pp. 229--323, 2008.
+
+
+\bibitem{Helfrich+Melville:2006}
+K.~Helfrich and W.~Melville, ``{Long nonlinear internal waves},'' \emph{Annu.
+  Rev. Fluid Mech}, vol.~38, pp. 395--425, 2006.
+ \begin{quotation}\noindent A good review of ISWs highlighting: theoretical
+  models, lab experiments, generation, evolution, and dissipation. \\ Models:
+  Focuses mostly on the extended KdV (eKdV) as a weakly nonlinear model, which
+  includes a cubic nonlinearity term (Djordjevic and Redekopp 1978) \[ \eta_t +
+  (c_0 + \alpha_1 \eta + \alpha_2 \eta^2) \eta_x + \beta_1 \eta_{xxx} = 0 \]
+  which has a solitary wave solution \[ \eta = \frac{\eta_0}{b +
+  (1-b)\mathrm{cosh}^2 \gamma (x-ct)} \] which reduces to the familiar sech$^2$
+  when $\alpha_2=0$. Large amplitude models include MCC (which agrees with eKdV
+  for $0.4 < \frac{h_1}{h_1 + h_2} < 0.6$). Also discussed is the theory of
+  Ostrovsky and Grue 2003, which does not suffer from KH instability of large
+  amplitude waves like MCC. The equation is the phenomenological derivation of
+  KdV \[ \eta_t + c(\eta)\eta_x + (\beta (\eta) \eta_{xx})_x = 0 \] where
+  $c(\eta)$ is the exact nonlinear speed from nondispersive theory. Also
+  discuss various authors that consider fully nonlinear models (e.g. see Lamb
+  2002/2003, Turkington 1991). \\Then they summarize various lab experiments.
+  \\Wave generation by tides (Halpern 1971): initial generation of a front
+  upstream due to ``blocking" by topography, nonlinear steepening of the front,
+  then generation of a wave packet by the combined effects of nonlinearity and
+  dispersion. Also discuss Knight Inlet where the plunging thermocline causes
+  the accelerating lower layer flow to become unstable to shear instabilities
+  which may develop into ISWs. \\Evolution is governed by changes in topography
+  and stratification, and rotation. In particular they note the recently
+  detected waves of elevation (Klymak and Moum 2003, etc) which often show
+  transitions from waves of depression to elevation (e.g. South China Sea). The
+  effect of rotation generally is to damp solitary wave solutions, often
+  through radiation of Poincare waves. They discussion dissipation due to its
+  importance for transport and mixing. Methods of dissipation are: radiation
+  damping (NLIWs propagating over a weakly stratified lower layer may radiate
+  internal waves into it), boundary shear (e.g. bottom boundary
+  shear/turbulence/dissipation), shear instability ($Ri < 1/4$ can produce
+  thickening of the interface - i.e. greater PE at the expense of the ISWs,
+  most likely caused by KH instability - see Moum et al 2003), and wave
+  breaking. Breaking often occurs in the vicinity of the turning point ($h_1 =
+  h_2$), and is followed by the formation of boluses. Lamb 2003 examined the
+  idea of trapped cores. Mixing efficiency as a result of breaking is usually
+  between 15-25 \%. \end{quotation}
+
+\bibitem{Helle:1978}
+H.~B. Helle, ``Summer replacement of deep water in {B}yfjord, western {N}orway:
+  mass exchange across the sill induced by coastal upwelling.'' in
+  \emph{Hydrodynamics of Estuaries and Fjords}, ser. Elsevier Oceanography
+  Series, J.~C.~J. Nihoul, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Elsevier
+  Scientific Publishing Company, Amsterdam, 1978, no.~23, pp. 441--464.
+
+
+\bibitem{Hill+Foda:1998}
+D.~Hill and M.~Foda, ``{Subharmonic resonance of oblique interfacial waves by a
+  progressive surface wave},'' \emph{Proceedings: Mathematical, Physical and
+  Engineering Sciences}, pp. 1129--1144, 1998.
+
+
+\bibitem{Holbrook+al:1980}
+J.~R. Holbrook, R.~D. Muench, and G.~A. Cannon, ``Seasonal observations of low
+  frequency atmospheric forcing in the {S}trait of {J}uan de {F}uca,'' in
+  \emph{Fjord Oceanography}, H.~J. Freeland, D.~M. Farmer, and C.~D. Levings,
+  Eds.\hskip 1em plus 0.5em minus 0.4em\relax Plenum, New York, 1980, pp.
+  305--318.
+
+
+\bibitem{Holbrook+al:2003}
+W.~S. Holbrook, P.~P\'aramo, S.~Pearse, and R.~W. Schmitt, ``Thermohaline fine
+  structure in an oceanographic front from seismic reflection profiling,''
+  \emph{Science}, vol. 301, pp. 821--824, 2003.
+
+
+\bibitem{Holland:1973}
+W.~R. Holland, ``Baroclinic and topographic influences on the transport in
+  western boundary currents,'' \emph{Geophys. Fluid Dyn.}, vol.~4, pp.
+  187--210, 1973.
+
+
+\bibitem{Holloway:1987}
+P.~Holloway, ``{Internal hydraulic jumps and solitons at a shelf break region
+  on the Australian North West Shelf},'' \emph{Journal of Geophysical
+  Research}, vol.~92, no.~C5, pp. 5405--5416, 1987.
+
+
+\bibitem{Holloway:1996}
+P.~E. Holloway, ``A numerical model of internal tides with application to the
+  {Australian North West Shelf},'' \emph{J. Phys. Oceanogr.}, vol.~26, pp.
+  21--37, 1996.
+
+
+\bibitem{Hosegood+al:2004}
+P.~Hosegood, J.~Bonnin, and H.~van Haren, ``{Solibore-induced sediment
+  resuspension in the Faeroe-Shetland Channel},'' \emph{Geophys. Res. Lett},
+  vol.~31, no.~9, p. L09301, 2004.
+
+
+\bibitem{Hughes+Grant:1978}
+B.~Hughes and H.~Grant, ``{The effect of internal waves on surface wind waves
+  1. Experimental measurements},'' \emph{Journal of Geophysical Research},
+  vol.~83, no.~C1, pp. 443--454, 1978.
+
+
+\bibitem{Hughes+Griffiths:2006}
+G.~O. Hughes and R.~W. Griffiths, ``A simple convective model of the global
+  overturning circulation including effects of entrainment into sinking
+  regions,'' \emph{Ocean Modelling}, vol.~12, pp. 46--79, 2006.
+
+
+\bibitem{Hurrell:1995}
+J.~W. Hurrell, ``Decadal trends in the {North Atlantic Oscillation}: Regional
+  temperatures and precipitation,'' \emph{Science}, vol. 269, pp. 676--679,
+  1995.
+
+
+\bibitem{Hurrell:1996}
+------, ``Influence of variations in extratropical wintertime teleconnections
+  on {Northern Hemisphere} temperature,'' \emph{Geophys. Res. Let.}, vol.~23,
+  no.~6, pp. 665--668, 1996.
+
+
+\bibitem{Hurrell+VanLoon:1997}
+J.~W. Hurrell and H.~{Van Loon}, ``Decadal variations in climate associated
+  with the {North Atlantic Oscillation},'' \emph{Climatic Change}, vol.~36, pp.
+  301--326, 1997.
+
+
+\bibitem{Ingram:1978}
+R.~G. Ingram, ``Internal wave observations off {Isle Verte},'' \emph{J. Mar.
+  Res.}, vol.~36, pp. 715--724, 1978.
+ \begin{quotation}\noindent Early paper reporting internal waves and surface
+  streaks in the St. Lawrence Estuary, near the SLEIWEX field site. The basis
+  of the paper is from aerial survey photographs taken about 3.5 hours after
+  low tide just off of Isle Verte. The bands are clearly from a train of
+  nonlinear internal waves, though there is no in situ data to accompany the
+  photographs. Hydrographic and current data taken during the same phase of the
+  tide but two years later do reveal nonlinear internal waves passing an
+  anchored ship. The generation mechanism is not believed to be topographic,
+  but consistent to the theory of Lee and Beardsley (1974) and related to warm
+  water fronts occuring near the the head of the laurentian channel which break
+  down due to dispersion and nonlinearity into a train of internal waves.
+  \end{quotation}
+
+\bibitem{Ivey+Imberger:1991}
+G.~N. Ivey and J.~Imberger, ``On the nature of turbulence in a stratified
+  fluid. {Part I}: the energetics of mixing,'' \emph{J. Phys. Oceanogr.},
+  vol.~21, pp. 650--658, 1991.
+
+
+\bibitem{Ivey+al:2008}
+\BIBentryALTinterwordspacing
+G.~Ivey, K.~Winters, and J.~Koseff, ``Density stratification, turbulence, but
+  how much mixing?'' \emph{Annual Review of Fluid Mechanics}, vol.~40, no.~1,
+  pp. 169--184, 2008. [Online]. Available:
+  \url{http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.fluid.39.05%
+0905.110314}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{Jay+Musiak:1996}
+D.~A. Jay and J.~D. Musiak, ``Internal tidal asymmetry in channel flows:
+  {O}rigins and consequences,'' in \emph{Mixing in estuaries and coastal seas},
+  C.~Pattiaratchi, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Amer. Geophys.
+  Union, 1996, pp. 211--249.
+
+
+\bibitem{Jay+Smith:1990a}
+D.~A. Jay and J.~D. Smith, ``Residual circulation in shallow estuaries 1.
+  highly stratified, narrow estuaries,'' \emph{J. Geophys. Res.}, vol.~95,
+  no.~C1, pp. 711--731, 1990.
+
+
+\bibitem{Jay+Smith:1990b}
+------, ``Residual circulation in shallow estuaries 2. weakly stratified and
+  partially mixed, narrow estuaries,'' \emph{J. Geophys. Res.}, vol.~95,
+  no.~C1, pp. 733--748, 1990.
+
+
+\bibitem{Jeffreys:1920}
+H.~Jeffreys, ``Tidal friction in shallow seas,'' \emph{Philos. Trans. R. Soc.
+  London. Ser. A}, vol. 221, pp. 239--264, 1920.
+
+
+\bibitem{Jeffreys+Jeffreys:1956}
+H.~Jeffreys and B.~Jeffreys, \emph{{Methods of Mathematical Physics}}.\hskip
+  1em plus 0.5em minus 0.4em\relax Cambridge University Press, 1956.
+
+
+\bibitem{Jonsson:1998}
+I.~Jonsson, ``{Wave action flux: a physical interpretation},'' \emph{Journal of
+  fluid mechanics}, vol. 368, pp. 155--164, 1998.
+
+
+\bibitem{Joyce:1989}
+T.~Joyce, ``On in situ “calibration” of shipboard adcps,'' \emph{Journal of
+  Atmospheric and Oceanic Technology}, vol.~6, no.~1, pp. 169--172, 1989.
+
+
+\bibitem{Kakutani+Yamasaki:1978}
+T.~Kakutani and N.~Yamasaki, ``{Solitary waves on a two-layer fluid},''
+  \emph{J. Phys. Soc. Japan}, vol.~45, no.~2, pp. 674--679, 1978.
+
+
+\bibitem{Kang+al:2000}
+S.~K. Kang, M.~G. Foreman, W.~R. Crawford, and J.~Y. Cherniawsky, ``Numerical
+  modelling of internal tide generation along the {H}awaiian {R}idge,''
+  \emph{J. Phys. Oceanogr.}, vol.~30, pp. 1083--1098, 2000.
+
+
+\bibitem{Kao+al:1985}
+T.~W. Kao, F.-S. Pan, and D.~Renouard, ``Internal solitons on the pycnocline:
+  generation, propagation, and shoaling and breaking over a slope,'' \emph{J.
+  Fluid Mech.}, vol. 169, pp. 19--53, 1985.
+
+
+\bibitem{Kar+Turco:1995}
+S.~Kar and R.~Turco, ``Formulation of a lateral sponge layer for limited-area
+  shallow-water models and an extension for the vertically stratified case,''
+  \emph{Monthly Weather Review}, vol. 123, no.~5, pp. 1542--1559, 1995.
+
+
+\bibitem{Kato+Phillips:1969}
+H.~Kato and O.~Phillips, ``{On the penetration of a turbulent layer into
+  stratified fluid},'' \emph{Journal of Fluid Mechanics Digital Archive},
+  vol.~37, no.~04, pp. 643--655, 1969.
+
+
+\bibitem{Klinck+al:1981}
+J.~M. Klinck, J.~J. O'Brien, and H.~Svendsen, ``A simple model of fjord and
+  coastal circulation interaction,'' \emph{J. Phys. Oceanogr.}, vol.~11,
+  no.~12, pp. 1612--1626, 1981.
+
+
+\bibitem{Klymak+Gregg:2001}
+J.~M. Klymak and M.~C. Gregg, ``The three-dimensional nature of flow near a
+  sill,'' \emph{J. Geophys. Res.}, vol. 106, pp. 22\,295--22\,311, 2001.
+
+
+\bibitem{Klymak+Gregg:2003a}
+------, ``The role of upstream waves and a downstream density-pool in the
+  growth of lee-waves: stratified flow over the knight inlet sill,'' \emph{J.
+  Phys. Oceanogr.}, vol.~33, no.~7, pp. 1446--1461, 2003.
+
+
+\bibitem{Klymak+Gregg:2003b}
+------, ``Tidally generated turbulence over the {K}night {I}nlet sill,''
+  \emph{J. Phys. Oceanogr.}, 2003, submitted to {\it J. Phys. Oceanogr.}
+
+
+\bibitem{Klymak+Moum:2003}
+J.~Klymak and J.~Moum, ``{Internal solitary waves of elevation advancing on a
+  shoaling shelf},'' \emph{Geophys. Res. Lett}, vol.~30, no.~20, p. 2045, 2003.
+
+
+\bibitem{Klymak+al:2006}
+J.~M. Klymak, R.~Pinkel, C.-T. Liu, A.~K. Liu, and L.~David, ``Prototypical
+  solitons in the {South} {China} {Sea},'' \emph{Geophys. Res. Lett.}, vol.~33,
+  p. doi:10.1029/2006GL025932, 2006.
+
+
+\bibitem{Koch+al:1983}
+S.~Koch, M.~Desjardins, and P.~Kocin, ``{An interactive Barnes objective map
+  analysis scheme for use with satellite and conventional data},''
+  \emph{Journal of Applied Meteorology}, vol.~22, no.~9, pp. 1487--1503, 1983.
+
+
+\bibitem{Koop+McGee:}
+C.~Koop and B.~McGee, ``{Measurements of internal gravity waves in a
+  continuously stratified shear flow},'' \emph{Journal of Fluid Mechanics},
+  vol. 172, pp. 453--80, 1986.
+
+
+\bibitem{Koutitonsky+Bugden:1991}
+V.~G. Koutitonsky and G.~L. Bugden, ``The physical oceanography of the {G}ulf
+  of {S}t. {L}awrence: a review with emphasis on the synoptic variability of
+  the motion,'' in \emph{{The Gulf of St. Lawrence: small ocean or big
+  estuary?}}, J.~C. Therriault, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Can.
+  Spec. Publ. Fish. Aquat. Sci. 113, 1991, pp. 57--89.
+
+
+\bibitem{Kowalik+Murty:1993}
+Z.~Kowalik and T.~S. Murty, \emph{Numerical modeling of ocean dynamics}, ser.
+  Advanced Series on Ocean Engineering.\hskip 1em plus 0.5em minus 0.4em\relax
+  World Scientific, 1993, vol.~5.
+
+
+\bibitem{Kulsrud:1957}
+R.~Kulsrud, ``{Adiabatic Invariant of the Harmonic Oscillator},''
+  \emph{Physical Review}, vol. 106, no.~2, pp. 205--207, 1957.
+
+
+\bibitem{Kundu+Cohen:2002}
+P.~K. Kundu and I.~M. Cohen, \emph{Fluid Mechanics}, 2nd~ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Academic Press, 2002.
+
+
+\bibitem{Kundu+al:1988}
+P.~Kundu, R.~Thomson, B.~Hickey, and P.~LeBlond, ``{Interaction of internal
+  waves and mean flow observed near a coast},'' \emph{Journal of marine
+  research}, vol.~46, no.~1, pp. 1--23, 1988.
+
+
+\bibitem{Kunze+al:2002}
+E.~Kunze, L.~Rosenfeld, G.~Carter, and M.~Gregg, ``{Internal waves in Monterey
+  Submarine Canyon},'' \emph{Journal of Physical Oceanography}, vol.~32, no.~6,
+  pp. 1890--1913, 2002.
+ \begin{quotation}\noindent The authors examine the internal wave field in a
+  submarine canyon, using XCP-XCTD pairs, bottom mounted ADCPs, and CTD time
+  series. Canyons are often areas of increased biological productivity,
+  possibly due to upwelling and subsequent upcanyon flow. Enhanced turbulence
+  from an enhanced internal wave field may also contribute. Canyons may
+  contribute to higher turbulence through focusing of internal waves and
+  critical reflection off the bottom. \\ Sampling included across canyon
+  transects, repeated four times in 12h, an along canyon transect, and various
+  measurements on the submarine fan and slope. ADCPs were mounted near the
+  shallow end of the canyon. Isopycnal displacement ($\xi$) was calculated from
+  XCTD/XCP data relative to averages over the entire survey. Energy fluxes were
+  then determined from $\langle \tilde{u} \tilde{p} \rangle$, where $\tilde{p}$
+  was calculated from the survey averaged $N^2$ and isopycnal profiles assuming
+  a hydrostatic balance. They note that this holds for frequencies $\omega \ll
+  N$, and is therefore appropriate for the mostly semidiurnal fluctuations. \\
+  They produce frequency spectra from the ADCP. For $f < \omega < N$ it
+  resembles the GM1979 spectrum except for: there is no inertial peak, a
+  dominant semidiurnal peak, the presence of M2 and K1 harmonics, and excess
+  energy near $N$ (probably caused by instrument noise). They calculate KE and
+  APE along and across the canyon, using \[ PE = \frac{\bar{N}^2 \langle \xi^2
+  \rangle}{2} \] but to remove the barotropic component they subtract a linear
+  fit for $\xi$ (with zero at the surface) from the isopycnal displacements
+  (i.e. $\tilde{\xi} = \xi - \xi_z z$). Not doing this can lead to KE/PE ratios
+  that are too low. There are a number of plots showing the energy along and
+  across the canyon, showing baroclinic energies are elevated compared to
+  open-ocean values, especially toward the head of the canyon. \\They also
+  estimate finescale shear and strain variance, which they use for estimates of
+  turbulent diffusion using several different parameterizations. They find they
+  best parameterization underestimates microstructure measurements by a factor
+  of 30, implying that open-ocean parameterizations are not valid in the
+  canyon, and that turbulence there is produced in a fundamentally different
+  way (either through enhanced wave-wave interactions, the departure from the
+  GM spectrum, or interaction with canyon topography). \\They estimate flux
+  magnitudes and direction, finding that they are mostly oriented up-canyon,
+  and in some cases seem to be able to navigate bends with little loss. They
+  then combine the flux and dissipation rate to see whether the loss of energy
+  goes to turbulence (using steady state and weak advection assumptions) i.e.
+  \[ \frac{\Delta \langle \tilde{u}\tilde{p} \rangle}{\Delta r} = \varepsilon_p
+  = \varepsilon(1+\gamma) \] where $\gamma$ is the mixing efficiency. They find
+  that flux convergences are comparable to $\varepsilon_p$, though it is not
+  just simple upcanyon dissipation as there must be sources and sinks to
+  explain the observed flux. This implies that if internal tide generation is
+  important in the canyon, that might control turbulence rather than an
+  internal wave cascade. \end{quotation}
+
+\bibitem{Kunze+Smith:2004}
+E.~Kunze and S.~G. {Llewellyn Smith}, ``The role of small-scale topography in
+  turbulent mixing of the global ocean,'' \emph{Oceanography}, vol.~17, no.~1,
+  pp. 55--64, 2004.
+
+
+\bibitem{Lamb+Nguyen:2009}
+K.~G. Lamb and V.~T. Nguyen, ``Calculating energy flux in internal solitary
+  waves with an application to reflectance,'' \emph{J. Phys. Oceanogr.},
+  vol.~39, no.~3, pp. 559--580, 2009.
+
+
+\bibitem{Lamb:1994}
+K.~Lamb, ``{Numerical experiments of internal wave generation by strong tidal
+  flow across a finite amplitude bank edge},'' \emph{J. Geophys. Res}, vol.~99,
+  no.~1, pp. 843--864, 1994.
+
+
+\bibitem{Lamb:1998}
+------, ``{Are solitary internal waves solitons?}'' \emph{Studies in applied
+  mathematics}, vol. 101, no.~3, pp. 289--308, 1998.
+
+
+\bibitem{Lamb:2002}
+------, ``{A numerical investigation of solitary internal waves with trapped
+  cores formed via shoaling},'' \emph{Journal of Fluid Mechanics}, vol. 451,
+  pp. 109--144, 2002.
+ \begin{quotation}\noindent Lamb examines the formation of trapped cores for
+  shoaling solitary waves of depression, with a variety of different
+  stratifications, and shelf widths. He uses an exponential stratification
+  (with 3 different scale heights of 15, 35, and 75 m), a tanh profile with
+  scale heights of 20 and 45 m (making them similar to the exponential
+  profiles), and a mixed-layer profile which is a modification of the S=15m
+  exponential to include a 2 m thick surface mixed layer. There are 3 limits to
+  wave amplitude that are of relevance. The breaking limit occurs when the
+  maximum velocity in the wave ($U_{max}$) is equal to the wave speed $c$. At
+  this point, a streamline in a reference frame moving with the wave, first
+  becomes vertical. The conjugate flow limit occurs for waves that become flat
+  in the centre and simply become longer as the amplitude increases (Benjamin
+  1966, Lamb and Wan 1998). Finally, the stability limit occurs when the
+  minimum Richardson number near the wave goes below 0.25, though this is not a
+  set in stone criterion, as the flow in a NLIW is not parallel. \\Note that a
+  trapped core occurs when a wave core exhibits closed streamlines. Trapped
+  cores are significant because they have the potential to transport fluid over
+  large distances. \\ By comparing theoretical properties of waves for the
+  exponential and mixed-layer stratifications, Lamb shows that the maximum wave
+  currents in large solitary waves are sensitive to changes in the near-surface
+  density. \\Numerical experiments illustrate many aspects of varying amplitude
+  waves shoaling over the shelf for the indicated stratifications, and for 3
+  different shelf widths of 200, 400, and 600 m. Structure of the trapped
+  cores, evolution of wave amplitudes and velocities, and breaking depths are
+  all elucidated with detailed figures. Some preliminary energetics
+  calculations are also performed. \\ Results indicate that trapped cores can
+  form after breaking for the exponential and tanh stratifications, but
+  \emph{do not} occur for the mixed layer profile. While the maximum amplitude
+  of the solitary waves after adjusting on the shallower shelf (and perhaps
+  after having formed a trapped core) is usually governed by the breaking
+  limit, the amplitude for waves in the mixed-layer case is instead governed by
+  the conjugate flow limit. Breaking for trapped core forming waves can occur
+  on the shelf, while for the mixed-layer it always occurs over the slope.
+  These results imply that waves with trapped cores will not be formed in the
+  ocean under most oceanographic conditions. \\ \\ \textbf{Some extra notes on
+  limits for large amplitude waves:} \\ ISW amplitude is limited by one of 3
+  things: the breaking limit, the conjugate flow limit, and the stability
+  limit. Different limits are important for different stratifications and
+  configurations. \\ The breaking limit occurs when $U_{max} = c$, at which
+  point overturning occurs and a trapped core may be formed. \\ For waves
+  governed by the conjugate flow limit, $U_{max} < c$ and trapped cores are not
+  formed, even if breaking occurs. Higher energy waves become broader instead
+  of higher, and all streamlines are open. \end{quotation}
+
+\bibitem{Lamb:2003}
+------, ``{Shoaling solitary internal waves: on a criterion for the formation
+  of waves with trapped cores},'' \emph{Journal of Fluid Mechanics}, vol. 478,
+  pp. 81--100, 2003.
+ \begin{quotation}\noindent An extension of the numerical experiments in Lamb
+  2002, extended to look at oceanographically relevant stratifications (i.e.
+  tanh profiles), and including background current shear near the surface. In
+  Lamb 2002 he found that trapped cores would not form when there was a surface
+  mixed layer, and the maximum amplitude of the waves was governed by the
+  conjugate flow limit ($U_{max} < c$). In the intro he states \\ \emph{``The
+  reason for the significant difference in the limiting behavior of large waves
+  ... is that in the mixed layer there is no mechanism for the generation of
+  vorticity."} \\This suggests however, that a surface current with vorticity
+  in the same direction can enable the formation of trapped cores in a
+  stratification that otherwise wouldn't support it. \\Lamb and Wan 1998 found
+  that conjugate flows with open streaklines (i.e. not trapped cores) exist
+  only when the centre of the pycnocline is greater than a critical distance
+  $r(d)$ from the upper (wave of depression) or lower (waves of elevation)
+  boundary ($d$ is the pycnocline thickness). \\The results with no background
+  current are summarized in figure 3, where trapped cores only form if $z_0$
+  (pycnocline depth) is greater than $r_u(d)$ for various values of $d$. In all
+  cases shoaling waves steepen at the back and if of sufficient amplitude they
+  overturn. For conjugate flow limited waves ($z_0 < r_u(d)$) a patch of surf
+  formed at the rear of the wave during overturning is left behind, and waves
+  with amplitudes larger than the limit flatten out from the front (see figure
+  4a). If $z_0$ is above $r_u(d)$ there is a persistent surf near the rear, and
+  for $z_0 > r_u(d)$ the closed density contours fill more of the wave.
+  \\Adding a sheared background current modifies the $r_u(d)$ curve (figure 6),
+  but it is still found that trapped cores only form when $z_0 > r_u(d)$. Now
+  however, $r_u(d)$ is generally lower than with no current, meaning trapped
+  cores can be formed for stratifications that couldn't previously. In other
+  words, as the background shear increases, $r_u(d)$ decreases. \\He closes by
+  stating: \emph{``The numerical calculation of conjugate flows for a specified
+  stratification and background current is computationally very cheap and
+  provides a simple means to determine whether waves with trapped cores can
+  exist."} How true it is. \end{quotation}
+
+\bibitem{Lamb:2007}
+------, ``Energy and pseudoenergy flux in the internal wave field generated by
+  tidal flow over topography,'' \emph{Continental Shelf Research}, vol.~27,
+  no.~9, pp. 1208--1232, 2007.
+ \begin{quotation}\noindent Lamb examines aspects of tidal flow over topography
+  using a nonlinear nonhydrostatic 2D numerical model. He examines 2 cases:
+  weak tidal flow with constant N over a deep ocean ridge, and strong tidal
+  flow over a bank edge with nonuniform stratification. He evaluates the fluxes
+  of total mechanical energy and pseudoenergy for the cases, while evaluating
+  contributions from various flux terms, including: flux of background and
+  perturbation potential energy, rate of work done by background and
+  perturbation pressure fields, and flux of kinetic energy. (Note that he
+  points out that the perturbation pressure field may further be decomposed
+  into hydrostatic and nonhydrostatic parts, following Moum et al 2006 and
+  Venayagamoorthy and Fringer 2005, 2006). The total mechanical energy equation
+  is of the form: \[ \frac{d \bar{E}}{dt} = \left. \left[ (PE_{f1} + W_1) +
+  PE_{f2} + W_2 + K_f \right] \right|_{\xi_r}^{\xi_l} \] and the pseudoenergy
+  equation is: \[ \frac{d \bar{E}_{pseudo}}{dt} = \left. (K_f + APE_f + W_2)
+  \right|_{\xi_r}^{\xi_l}. \] Lamb finds that both equations are satisfied to
+  less than 1\%, indicating that using a linear energy equation (i.e.
+  considering only the pressure work terms in the flux) is not appropriate for
+  the bank edge case. In fact, the $\langle up \rangle$ term accounts for only
+  $\sim$1/2 of the pseudoenergy flux. This is consistent with other studies, in
+  particular Moum et al 2006 and Scotti et al 2006, and reinforces that much of
+  the internal wave energy generated by tide-topography interaction ends up in
+  the high frequency nonhydrostatic ISW field. \end{quotation}
+
+\bibitem{Landau+Lifshitz:1976}
+L.~Landau and E.~Lifshitz, \emph{{Mechanics}}, 3rd~ed.\hskip 1em plus 0.5em
+  minus 0.4em\relax Pergamon Press, 1976, vol.~1.
+
+
+\bibitem{Large+Pond:1981}
+W.~G. Large and S.~Pond, ``Open ocean momentum flux measurements in moderate to
+  strong winds,'' \emph{J. Phys. Oceanogr.}, vol.~11, pp. 324--336, 1981.
+
+
+\bibitem{Large+Pond:1982}
+------, ``Sensible and latent heat flux measurements over the ocean,'' \emph{J.
+  Phys. Oceanogr.}, vol.~12, pp. 464--482, 1982.
+
+
+\bibitem{Lavelle+al:1991}
+J.~W. Lavelle, E.~D. Cokelet, and G.~A. Cannon, ``A model study of density
+  intrusions into and circulation within a deep, silled estuary: {Puget
+  Sound},'' \emph{J. Geophys. Res.}, vol.~96, no.~C9, pp. 16\,779--16\,800,
+  1991.
+
+
+\bibitem{Lazier:1980}
+J.~R.~N. Lazier, ``Oceanic conditions at {Ocean Weather Ship Bravo},
+  1964-1974,'' \emph{Atmosphere Ocean}, vol.~18, pp. 227--238, 1980.
+
+
+\bibitem{Lee+Beardsley:1974}
+C.~Lee and R.~Beardsley, ``{The generation of long nonlinear internal waves in
+  a weakly stratified shear flow},'' \emph{Journal of Geophysical
+  Research-Oceans}, vol.~79, no.~3, 1974.
+
+
+\bibitem{Legg+Klymak:2008}
+S.~Legg and J.~Klymak, ``Internal hydraulic jumps and overturning generated by
+  tidal flow over a tall steep ridge,'' \emph{J. Phys. Oceanogr.}, vol.~38,
+  no.~9, pp. 1949--1964, 2008.
+
+
+\bibitem{Leibovich+Seebass:1974}
+S.~Leibovich and A.~Seebass, \emph{{Nonlinear Waves}}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Cornell University Press, 1974.
+
+
+\bibitem{Lewis:2003}
+D.~M. Lewis, ``Planktonic encounter rates in homogeneous isotropic turbulence:
+  the case of predators with limited fields of sensory perception,'' \emph{J.
+  Theor. Biol.}, vol. 222, pp. 73--97, 2003.
+
+
+\bibitem{Li+Raichlen:2003}
+Y.~Li and F.~Raichlen, ``{Energy Balance Model for Breaking Solitary Wave
+  Runup},'' \emph{Journal of Waterway, Port, Coastal, and Ocean Engineering},
+  vol. 129, p.~47, 2003.
+
+
+\bibitem{Lighthill:1978}
+J.~Lighthill, \emph{{Waves in fluids}}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Cambridge University Press, 1978.
+
+
+\bibitem{Limpasuvan+Hartmann:1999}
+V.~Limpasuvan and D.~L. Hartmann, ``Eddies and the annular modes of climate
+  variability,'' \emph{Geophys. Res. Let.}, vol.~26, no.~20, pp. 3133--3136,
+  1999.
+
+
+\bibitem{Longuethiggins+Stewart:1960}
+M.~Longuet-Higgins and R.~Stewart, ``{Changes in the form of short gravity
+  waves on long waves and tidal currents},'' \emph{Journal of Fluid Mechanics},
+  vol.~8, pp. 565--583, 1960.
+
+
+\bibitem{Longuethiggins+Stewart:1961}
+------, ``{The changes in amplitude of short gravity waves on steady
+  non-uniform currents},'' \emph{Journal of Fluid Mechanics}, vol.~10, pp.
+  529--549, 1961.
+
+
+\bibitem{Longuethiggins+Stewart:1962}
+------, ``{Radiation stress and mass transport in gravity waves, with
+  application to 'surf-beats'},'' \emph{Journal of Fluid Mechanics}, vol.~13,
+  pp. 481--504, 1962.
+
+
+\bibitem{Lu+al:2001}
+Y.~Lu, D.~Wright, and D.~Brickman, ``{Internal Tide Generation over Topography:
+  Experiments with a Free-Surface z-Level Ocean Model},'' \emph{Journal of
+  Atmospheric and Oceanic Technology}, vol.~18, no.~6, pp. 1076--1091, 2001.
+
+
+\bibitem{Lu+Lueck:1999}
+Y.~Lu and R.~G. Lueck, ``Using a broadband {ADCP} in a tidal channel. {Part
+  II}: {T}urbulence,'' \emph{J. Atmos. Oceanic Technol.}, vol.~16, pp.
+  1568--1579, 1999.
+
+
+\bibitem{Lynch:2002}
+P.~Lynch, ``Hamiltonian methods for geophysical fluid dynamics: an
+  introduction,'' 2002, http://www.ima.umn.edu/preprints/feb02/1838.pdf.
+
+
+\bibitem{Lynett+Liu:2004}
+P.~Lynett and P.~Liu, ``{A two-layer approach to wave modelling},''
+  \emph{Proceedings: Mathematical, Physical and Engineering Sciences}, vol.
+  460, no. 2049, pp. 2637--2669, 2004.
+
+
+\bibitem{Lynett+Liu:2002}
+------, ``{A two-dimensional, depth-integrated model for internal wave
+  propagation over variable bathymetry},'' \emph{Wave Motion}, vol.~36, no.~3,
+  pp. 221--240, 2002.
+
+
+\bibitem{Lynett+al:2002}
+P.~Lynett, T.~Wu, and P.~Liu, ``{Modeling wave runup with depth-integrated
+  equations},'' \emph{Coastal Engineering}, vol.~46, no.~2, pp. 89--107, 2002.
+
+
+\bibitem{Maccready+Pawlak:2001}
+P.~MacCready and G.~Pawlak, ``{Stratified Flow along a Corrugated Slope:
+  Separation Drag and Wave Drag},'' \emph{Journal of Physical Oceanography},
+  vol.~31, no.~10, pp. 2824--2839, 2001.
+
+
+\bibitem{Maccready+al:2003}
+P.~MacCready, G.~Pawlak, K.~Edwards, and R.~McCabe, ``{Form drag on ocean
+  flows},'' in \emph{Near-Boundary Processes and their Parameterization}, ser.
+  Proc. `Aha Huliko`a Hawaiian Winter Workshop, 2003, pp. 119--130.
+
+
+\bibitem{Mackenzie+Kiorboe:1995}
+B.~R. MacKenzie and T.~Ki{\o}rboe, ``Encounter rates and swimming behaviour of
+  pause-travel and cruise travel larval fish predators in calm and turbulent
+  laboratory environments,'' \emph{Limnol. Oceanogr.}, vol.~40, no.~7, pp.
+  1278--1289, 1995.
+
+
+\bibitem{Mackenzie+Kiorboe:2000}
+B.~R. Mackenzie and T.~Ki{\o}rboe, ``Larval fish feeding and turbulence: A case
+  for the downside,'' \emph{Limnol. Oceanogr.}, vol.~45, no.~1, pp. 1--10,
+  2000.
+
+
+\bibitem{Mackinnon+Gregg:2003b}
+J.~MacKinnon and M.~Gregg, ``Mixing on the late-summer new england
+  shelf-solibores, shear, and stratification,'' \emph{Journal of Physical
+  Oceanography}, vol.~33, no.~7, pp. 1476--1492, 2003.
+
+
+\bibitem{Mackinnon+Gregg:2003a}
+------, ``Shear and baroclinic energy flux on the summer new england shelf,''
+  \emph{Journal of Physical Oceanography}, vol.~33, no.~7, pp. 1462--1475,
+  2003.
+
+
+\bibitem{Matsuura:1995}
+H.~Matsuura, ``An application of two-layer model to wind driven sub-tidal
+  currents in {P}uget {S}ound,'' \emph{Journal of Oceanography}, vol.~51, pp.
+  571--584, 1995.
+
+
+\bibitem{Matsuura+Cannon:1997}
+H.~Matsuura and G.~A. Cannon, ``Wind effects on sub-tidal currents in {P}uget
+  {S}ound,'' \emph{Journal of Oceanography}, vol.~53, pp. 53--66, 1997.
+
+
+\bibitem{Matsuura+Hibiya:1990}
+T.~Matsuura and T.~Hibiya, ``{An Experimental and Numerical Study of the
+  Internal Wave Generation by Tide—Topography Interaction},'' \emph{Journal
+  of Physical Oceanography}, vol.~20, no.~4, pp. 506--521, 1990.
+
+
+\bibitem{Maxworthy:1979}
+T.~Maxworthy, ``{A note on the internal solitary waves produced by tidal flow
+  over a three-dimensional ridge},'' \emph{Journal of Geophysical
+  Research-Oceans}, vol.~84, no.~C1, 1979.
+
+
+\bibitem{Maxworthy:1980}
+------, ``{On the formation of nonlinear internal waves from the gravitational
+  collapse of mixed regions in two and three dimensions},'' \emph{Journal of
+  Fluid Mechanics Digital Archive}, vol.~96, no.~01, pp. 47--64, 1980.
+
+
+\bibitem{Mccabe+al:2006}
+R.~McCabe, P.~MacCready, and G.~Pawlak, ``{Form Drag due to Flow Separation at
+  a Headland},'' \emph{Journal of Physical Oceanography}, vol.~36, no.~11, pp.
+  2136--2152, 2006.
+
+
+\bibitem{McCreary:1981}
+J.~P. McCreary, ``A linear stratified ocean model of the equatorial
+  undercurrent,'' \emph{Philosophical Transactions of the Royal Society of
+  London Series A-mathematical physical and engineering sciences}, vol. 298,
+  pp. 603--605, 1981.
+
+
+\bibitem{Mehta+al:2002}
+A.~Mehta, B.~Sutherland, and P.~Kyba, ``{Interfacial gravity currents. II. Wave
+  excitation},'' \emph{Physics of Fluids}, vol.~14, p. 3558, 2002.
+
+
+\bibitem{Michallet+Ivey:1999}
+H.~Michallet and G.~N. Ivey, ``Experiments on mixing due to internal solitary
+  waves breaking on uniform slopes,'' \emph{J. Geophys. Res.}, vol. 104,
+  no.~C6, pp. 13\,467--13\,477, 1999.
+
+
+\bibitem{Middleton+Loder:1989}
+J.~F. Middleton and J.~W. Loder, ``Skew fluxes in polarized wave fields,''
+  \emph{J. Phys. Oceanogr.}, vol.~19, pp. 68--76, 1989.
+
+
+\bibitem{Miles:1980}
+J.~Miles, ``{Solitary waves},'' \emph{Annual Review of Fluid Mechanics},
+  vol.~12, no.~1, pp. 11--43, 1980.
+
+
+\bibitem{Miles:1981}
+------, ``{The Korteweg-de Vries equation: a historical essay},'' \emph{Journal
+  of Fluid Mechanics}, vol. 106, pp. 131--147, 1981.
+
+
+\bibitem{Miles:1986}
+------, ``{Weakly nonlinear waves in a stratified fluid: a variational
+  formulation},'' \emph{Journal of Fluid Mechanics}, vol. 172, pp. 499--512,
+  1986.
+
+
+\bibitem{Miles:2006}
+------, ``{Obliquely interacting solitary waves},'' \emph{Journal of Fluid
+  Mechanics Digital Archive}, vol.~79, no.~01, pp. 157--169, 2006.
+
+
+\bibitem{Mirshak+Kelley:2009}
+R.~Mirshak and D.~Kelley, ``Inferring propagation direction of nonlinear
+  internal waves in a vertically sheared background flow,'' \emph{J. Atmos.
+  Oceanic Technol.}, vol.~26, pp. 615--625, 2009.
+
+
+\bibitem{Moore+Lien:2007}
+S.~Moore and R.~Lien, ``Pilot whales follow internal solitary waves in the
+  {South China Sea},'' \emph{Marine Mammal Science}, vol.~23, no.~1, pp.
+  193--196, 2007.
+
+
+\bibitem{Morton+al:1956}
+B.~R. Morton, G.~I. Taylor, and J.~S. Turner, ``Turbulent gravitational
+  convection from maintained and instantaneous sources,'' \emph{Proc. R. Soc.
+  Lond. A}, vol. 234, pp. 1--23, 1956.
+
+
+\bibitem{Moum+al:2007}
+J.~N. Moum, J.~M. Klymak, J.~D. Nash, A.~Perlin, and W.~D. Smyth, ``Energy
+  transport by nonlinear internal waves,'' 2007, in press, \emph{J. Phys.
+  Oceanogr.}
+ \begin{quotation}\noindent They have an extensive set of measurements during
+  winter stratification near bottom on the Oregon Shelf. Turbulence profiles,
+  bottom lander ADV and ADCP, fixed position CTD casts, shipboard ADCP and
+  echosounder, all show aspects of ISWs of elevation advancing onshelf. The
+  observations are used to evaluate nonlinear aspects of energy transport. They
+  decompose the pressure distribution associated with the wave into 3 parts
+  (see Moum and Smyth 2006): the internal hydrostatic pressure (from isopycnal
+  displacement), external hydrostatic pressure (from free surface
+  displacement), and a nonhydrostatic pressure (from vertical accelerations).
+  Their framework gives \[ \frac{\partial E}{\partial t} + \frac{\partial
+  f_E}{\partial x} + \mbox{vertical redistribution} = -\rho_0 \epsilon \] with
+  the horizontal energy flux as \[ f_E = u(KE + APE + p_h^w + \rho_0 g \eta_H +
+  p_{nh}) \] \[ f_E = uE + up \] where $uE$ is a nonlinear advection term. They
+  ultimately show that $\langle f_E\rangle = c\langle E\rangle $ (or $\langle
+  uE + up\rangle = c\langle E\rangle $) holds for the observed wave, and also
+  that $\langle uE\rangle \simeq 2\langle up\rangle $. In addition they find
+  that the nonhydrostatic and external pressure contribute significantly to the
+  total pressure-velocity flux, and act to reduce it because they are of the
+  opposite sign to the hydrostatic part. Also find an equipartition of KE and
+  APE. They also determine that $\rho_0 \epsilon$ is negligible over short
+  distances. Their profiling and lander series do not coincide, however they
+  focus on the high res lander data for the energy calculations. Also of note
+  is that they plot vertical profiles of fluxes rather than just vertically
+  integrated (fig. 15). \end{quotation}
+
+\bibitem{Moum+al:2003}
+J.~Moum, D.~Farmer, W.~Smyth, L.~Armi, and S.~Vagle, ``{Structure and
+  Generation of Turbulence at Interfaces Strained by Internal Solitary Waves
+  Propagating Shoreward over the Continental Shelf},'' \emph{Journal of
+  Physical Oceanography}, vol.~33, no.~10, pp. 2093--2112, 2003.
+
+
+\bibitem{Moum+Smyth:2006}
+J.~Moum and W.~Smyth, ``{The pressure disturbance of a nonlinear internal wave
+  train},'' \emph{Journal of Fluid Mechanics}, vol. 558, pp. 153--177, 2006.
+ \begin{quotation}\noindent In this paper, the authors assess the contributions
+  to the pressure field under a nonhydrostatic non-linear internal wave. Their
+  discussion focuses on near bottom waves of elevation, though it could be
+  extended to waves of depression (which tend to be near the surface), and they
+  discuss some of the issues involved in this in Section 9.3. The consider the
+  total pressure at a depth $z$ to be: \[ p = p_U + p_{Wh} + \rho_0 g \eta_H +
+  p_{nh} \] where \[ p_U = \int_z^H (\rho_0 + \rho_U) g dz' \] is the upstream
+  (or ambient) pressure field (i.e. the background), \[ p_{Wh} = \int_z^H
+  \rho_{Wh} g dz' \] is the pressure anomaly associated with the wave, i.e. the
+  internal hydrostatic pressure, \[ \rho_0 g \eta_H \] is the pressure
+  associated with surface variations caused by convergences and divergences of
+  the IW induced surface currents, and \[ p_{nh} = \rho_0 \int_z^H
+  \frac{Dw}{Dt} dz' \] is the nonhydrostatic pressure contribution result from
+  vertical accelerations of fluid caused by the wave. In section 2.2 they use
+  small amplitude wave theory (i.e. KdV) to predict the form of bottom pressure
+  signals under waves of elevation. They find $p_{Wh}$ to be a positive
+  $\mathrm{sech}^2$ profile, $\rho_0 g \eta_H$ to be a negative
+  $\mathrm{sech}^2$, and $p_{nh}$ to be proportional to the 2nd derivative of
+  $\mathrm{sech}^2$. They use bottom lander data from the Oregon coast (same
+  data as Moum et al 2006) to evaluate the 3 pressure perturbation terms for 4
+  sets of IW trains. Wave speed is estimated from the phase speed of the first
+  baroclinic mode from KdV (and from the speed of fluid in the crest, though
+  this represents a lower bound). To calculate $p_{nh}$ they determine each of
+  the terms in \[ \frac{Dw}{Dt} = \frac{\partial w}{\partial t} +
+  u\frac{\partial w}{\partial x} + w\frac{\partial w}{\partial z}. \] To
+  determine internal hydrostatic pressure, they map density profiles taken just
+  before the arrival of the waves to streamlines determined from ADCP data.
+  Surface displacement is estimated by integrating surface accelerations in
+  $x$. They find maximum surface displacements of $\sim$ 1 mm. ADCP beam
+  spreading is a major source of error for this, as they cannot measure
+  currents closer than 24m below the surface. The pressure disturbance at the
+  seafloor is dominated by $p_{Wh}$ and is therefore positive definite. They
+  point out that for near surface waves of depression, the surface signature is
+  much larger, and because it is opposite to the internal hydrostatic field,
+  may actually balance it or at least very much decrease the otherwise negative
+  seafloor pressure disturbance, making it hard to detect at greater and
+  greater depth. \end{quotation}
+
+\bibitem{Muelbert+al:1994}
+J.~H. Muelbert, M.~R. Lewis, and D.~E. Kelley, ``The importance of small-scale
+  turbulence in the feeding of herring larvae,'' \emph{J. Plankton Res.},
+  vol.~16, no.~8, pp. 927--944, 1994.
+
+
+\bibitem{Muller+Garrett:2004}
+P.~Muller and C.~Garrett, ``{Near-boundary processes and their
+  parameterization},'' \emph{Oceanography}, vol.~17, pp. 107--116, 2004.
+
+
+\bibitem{Munk:1995}
+P.~Munk, ``Foraging behaviour of larval cod \textit{Gadus morhua} influenced by
+  prey density and hunger,'' \emph{Mar. Biol.}, vol. 122, pp. 205--212, 1995.
+
+
+\bibitem{Munk+Wimbush:1969}
+W.~Munk and M.~Wimbush, ``{A rule of thumb for wave breaking over sloping
+  beaches},'' \emph{Okeanologiya}, vol.~9, no.~1, pp. 71--75, 1969.
+
+
+\bibitem{Munk:1966}
+W.~H. Munk, ``Abyssal recipes,'' \emph{Deep-Sea Res.}, vol.~13, pp. 707--730,
+  1966.
+
+
+\bibitem{Munk+Wunsch:1998}
+W.~H. Munk and C.~Wunsch, ``Abyssal recipes {II}: energetics of tidal and wind
+  mixing,'' \emph{Deep-Sea Res. part I}, vol.~45, pp. 1977--2010, 1998.
+
+
+\bibitem{Munk:1949}
+W.~Munk, ``{The Solitary Wave Theory and Its Application to Surf Problems},''
+  \emph{Annals of the New York Academy of Sciences}, vol.~51, pp. 376--424,
+  1949.
+
+
+\bibitem{Nash+Moum:2002b}
+J.~D. Nash and J.~N. Moum, ``Microstructure estimates of turbulent salinity
+  flux and the dissipation spectrum of salinity,'' \emph{J. Phys. Oceanogr.},
+  vol.~32, pp. 2312--2333, 2002.
+
+
+\bibitem{Nash+al:2005}
+J.~Nash, M.~Alford, and E.~Kunze, ``{Estimating Internal Wave Energy Fluxes in
+  the Ocean},'' \emph{Journal of Atmospheric and Oceanic Technology}, vol.~22,
+  no.~10, pp. 1551--1570, 2005.
+
+
+\bibitem{Nash+Moum:2005}
+J.~Nash and J.~Moum, ``{River plumes as a source of large-amplitude internal
+  waves in the coastal ocean},'' \emph{Nature}, vol. 437, no. 7057, pp.
+  400--403, 2005.
+
+
+\bibitem{Nash+al:2004}
+J.~D. Nash, E.~Kunze, J.~M. Toole, and R.~W. Schmitt, ``Internal tide
+  reflection and turbulent mixing on the continental slope,'' \emph{J. Phys.
+  Oceanogr.}, vol.~34, no.~5, pp. 1117--1134, 2004.
+
+
+\bibitem{Nash+Moum:2002}
+J.~D. Nash and J.~N. Moum, ``Microstructure estimates of turbulent salinity
+  flux and the dissipation spectrum of salinity,'' \emph{J. Phys. Oceanogr.},
+  vol.~32, pp. 2312--2333, 2002.
+
+
+\bibitem{Natarov+Muller:2005}
+A.~Natarov and P.~M{\"u}ller, ``{A Dissipation Function for the Internal Wave
+  Radiative Balance Equation},'' \emph{Journal of Atmospheric and Oceanic
+  Technology}, vol.~22, no.~11, pp. 1782--1796, 2005.
+
+
+\bibitem{Nelson+Olsson}
+R.~Nelson and M.~Olsson, ``{The pendulum-Rich physics from a simple system},''
+  \emph{Am. J. Phys}, vol.~54, no.~2, pp. 112--121, 1986.
+
+
+\bibitem{Nore:1997}
+C.~Nore, ``{A Hamiltonian weak-wave model for shallow-water flow},''
+  \emph{Proceedings: Mathematical, Physical and Engineering Sciences}, vol.
+  453, no. 1958, pp. 563--580, 1997.
+
+
+\bibitem{Nore+Shepherd:1997}
+C.~Nore and T.~Shepherd, ``{A Hamiltonian Weak-Wave Model for Shallow-Water
+  Flow},'' \emph{Proceedings: Mathematical, Physical and Engineering Sciences},
+  vol. 453, no. 1958, pp. 563--580, 1997.
+
+
+\bibitem{Oakey:1982}
+N.~S. Oakey, ``Determination of the rate of dissipation of turbulent energy
+  from simultaneous temperature and velocity shear microstructure
+  measurements,'' \emph{J. Phys. Oceanogr.}, vol.~12, pp. 256--271, 1982.
+
+
+\bibitem{Obrien+Hurlburt:1972}
+J.~J. O'Brien and H.~E. Hurlburt, ``A numerical model of coastal upwelling,''
+  \emph{J. Phys. Oceanogr.}, vol.~2, pp. 14--26, 1972.
+
+
+\bibitem{Obrien+al:1989}
+W.~J. O'Brien, B.~I. Evans, and H.~I. Browman, ``Flexible search tactics and
+  efficient foraging in saltatory searching animals,'' \emph{Oecologica},
+  vol.~80, pp. 100--110, 1989.
+
+
+\bibitem{Officer:1976}
+C.~Officer, \emph{{Physical Oceanography of Estuaries (and Associated Coastal
+  Waters)}}.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley \& Sons, 1976.
+
+
+\bibitem{Olbers+al:2004}
+D.~Olbers, D.~Borowski, C.~V\"{o}lker, and J.-O. Wolff, ``The dynamical
+  balance, transport and circulation of the {Antarctice Circumpolar Current},''
+  \emph{Antarctic Science}, vol.~16, no.~4, pp. 439--470, 2004.
+
+
+\bibitem{Orlanski:1976}
+I.~Orlanski, ``A simple boundary condition for unbounded hyperbolic flows,''
+  \emph{J. Comput. Phys.}, vol.~21, no.~3, pp. 251--269, 1976.
+
+
+\bibitem{Orsi+al:1995}
+A.~H. Orsi, T.~{Whitworth III}, and W.~D. {Nowlin Jr}, ``On the meridional
+  extent and fronts of the {Antarctic Circumpolar Current},'' \emph{Deep-Sea
+  Res.}, vol.~42, no.~5, pp. 641--673, 1995.
+
+
+\bibitem{Osborn+Cox:1972}
+T.~R. Osborn and C.~S. Cox, ``Estimates of the local rate of vertical diffusion
+  from dissipation measurements,'' \emph{Geophys. Fluid Dyn.}, vol.~3, pp.
+  321--345, 1972.
+
+
+\bibitem{Osborn:1980}
+T.~Osborn, ``{Estimates of the Local Rate of Vertical Diffusion from
+  Dissipation Measurements},'' \emph{Journal of Physical Oceanography},
+  vol.~10, no.~1, pp. 83--89, 1980.
+
+
+\bibitem{Osborne+Burch:1980}
+A.~Osborne and T.~Burch, ``{Internal Solitons in the Andaman Sea},''
+  \emph{Science}, vol. 208, no. 4443, pp. 451--460, 1980.
+
+
+\bibitem{Ostrovsky+Stepanyants:1989}
+L.~A. Ostrovsky and Y.~A. Stepanyants, ``Do internal solitons exist in the
+  ocean?'' \emph{Reviews of Geophysics}, vol.~27, no.~3, pp. 293--310, 1989.
+
+
+\bibitem{Palma+Matano:1998}
+E.~D. Palma and R.~P. Matano, ``On the implementation of passive open boundary
+  conditions for a general circulation model: the barotropic mode,'' \emph{J.
+  Geophys. Res.}, vol. 103, no.~C1, pp. 1319--1341, 1998.
+
+
+\bibitem{Parker:1971}
+L.~Parker, ``{Adiabatic Invariance in Simple Harmonic Motion},'' \emph{American
+  Journal of Physics}, vol.~39, p.~24, 1971.
+
+
+\bibitem{Pawlowicz:2003}
+R.~Pawlowicz, ``{Quantitative visualization of geophysical flows using low-cost
+  oblique digital time-lapse imaging},'' \emph{Oceanic Engineering, IEEE
+  Journal of}, vol.~28, no.~4, pp. 699--710, 2003.
+
+
+\bibitem{Pawlowicz+al:2002}
+R.~Pawlowicz, B.~Beardsley, and S.~Lentz, ``Classical tidal harmonic analysis
+  including error estimates in {MATLAB} using {T}\_{TIDE},'' \emph{Computers
+  and Geosciences}, vol.~28, pp. 929--937, 2002.
+
+
+\bibitem{Peregrine:1983}
+D.~Peregrine, ``{Breaking Waves on Beaches},'' \emph{Annual Review of Fluid
+  Mechanics}, vol.~15, no.~1, pp. 149--178, 1983.
+
+
+\bibitem{Peregrine:1985}
+------, ``{Review Lecture: Water Waves and their Development in Space and
+  Time},'' \emph{Proceedings of the Royal Society of London. Series A,
+  Mathematical and Physical Sciences (1934-1990)}, vol. 400, no. 1818, pp.
+  1--18, 1985.
+
+
+\bibitem{Peters+Marrase:2000}
+F.~Peters and C.~Marras{\'e}, ``Effects of turbulence on plankton: an overview
+  of experimental evidence and some theoretical considerations,'' \emph{Mar.
+  Ecol. Prog. Ser.}, vol. 205, pp. 291--306, 2000.
+
+
+\bibitem{Petrie+Toulany:1988}
+B.~Petrie and B.~Toulany, ``The transport of water, heat and salt through the
+  {S}trait of {B}elle {I}sle,'' \emph{Atmosphere Ocean}, vol.~26, no.~2, pp.
+  234--251, 1988.
+
+
+\bibitem{Pickard:1961}
+G.~L. Pickard, ``Oceanographic features of inlets in the {B}ritish {C}olumbia
+  mainland coast,'' \emph{J. Fish. Res. Board Can.}, vol.~18, no.~6, pp.
+  907--999, 1961.
+
+
+\bibitem{Pickard+Emery:1990}
+G.~L. Pickard and W.~J. Emery, \emph{Descriptive physical oceanography},
+  5th~ed.\hskip 1em plus 0.5em minus 0.4em\relax Butterworth-Heinemann, 1990.
+
+
+\bibitem{Pickart+al:2003}
+R.~S. Pickart, F.~Straneoa, and G.~W.~K. Moore, ``Is labrador sea water formed
+  in the {I}rminger basin?'' \emph{Deep-Sea Res.}, vol.~50, pp. 23--52, 2003.
+
+
+\bibitem{Pinkel:2000}
+R.~Pinkel, ``{Internal Solitary Waves in the Warm Pool of the Western
+  Equatorial Pacific},'' \emph{Journal of Physical Oceanography}, vol.~30,
+  no.~11, pp. 2906--2926, 2000.
+
+
+\bibitem{Pinsky:1999}
+M.~Pinsky and A.~Zevin, ``{Oscillations of a pendulum with a periodically
+  varying length and a model of swing},'' \emph{International Journal of
+  Non-Linear Mechanics}, vol.~34, no.~1, pp. 105--109, 1999.
+
+
+\bibitem{Pond+al:1974}
+S.~Pond, D.~B. Fissel, and C.~A. Paulson, ``A note on bulk aerodynamics
+  coefficients for sensible heat and moisture fluxes,'' \emph{Boundary-Layer
+  Meteorol.}, vol.~6, pp. 333--339, 1974.
+
+
+\bibitem{Pond+Pickard:1983}
+S.~Pond and G.~L. Pickard, \emph{Introductory dynamical oceanography},
+  2nd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Butterworth-Heinemann, 1983.
+
+
+\bibitem{Priestley:1981}
+M.~B. Priestley, \emph{Spectral Analysis and Time Series}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Academic Press, 1981.
+
+
+\bibitem{Pritchard:1956}
+D.~W. Pritchard, ``The dynamic structure of a coastal plain estuary,'' \emph{J.
+  Mar. Res.}, vol.~15, pp. 33--42, 1956.
+
+
+\bibitem{Pullin+Grimshaw:1983a}
+D.~Pullin and R.~Grimshaw, ``{Nonlinear interfacial progressive waves near a
+  boundary in a Boussinesq fluid},'' \emph{Physics of Fluids}, vol.~26, pp.
+  897--905, 1983.
+
+
+\bibitem{Pullin+Grimshaw:1983b}
+------, ``{Interfacial progressive gravity waves in a two-layer shear flow},''
+  \emph{Physics of Fluids}, vol.~26, no.~7, pp. 1731--1739, 1983.
+
+
+\bibitem{Ray+al:2001}
+R.~D. Ray, R.~J. Eanes, and F.~G. Lemoine, ``Constraints on energy dissipation
+  in the earth's body tide from satellite tracking and altimetry,''
+  \emph{Geophysical Journal International}, vol. 144, no.~2, pp. 471--480,
+  2001.
+
+
+\bibitem{Ray+Mitchum:1997}
+R.~D. Ray and G.~T. Mitchum, ``Surface manifestation of internal tides in the
+  deep ocean: observations from altimetry and island gauges,'' \emph{Progr.
+  Oceanogr.}, vol.~40, pp. 135--162, 1997.
+
+
+\bibitem{RDInstruments:1996}
+{RD Instruments}, \emph{Acoustic {D}oppler current profiler principles of
+  operation: a practical primer}, RD Instruments, San Diego, CA, 1996.
+
+
+\bibitem{Reid+al:1981}
+R.~Reid, B.~Elliott, and D.~Olson, ``{Available Potential Energy: A
+  Clarification},'' \emph{Journal of Physical Oceanography}, vol.~11, no.~1,
+  pp. 15--29, 1981.
+
+
+\bibitem{Reiss+al:2002}
+C.~S. Reiss, A.~Anis, C.~T. Taggart, J.~F. Dower, and B.~Ruddick,
+  ``Relationships among vertially structured \textit{in situ} measures of
+  turbulence, larval fish abundance and feeding success and copepods on
+  {W}estern {B}ank, {S}cotian {S}helf,'' \emph{Fish. Oceanogr.}, vol.~11,
+  no.~3, pp. 156--174, 2002.
+
+
+\bibitem{Richards:2005}
+C.~Richards, ``Wind-forced dynamics in {Bonne Bay, Newfoundland},'' Master's
+  thesis, Memorial University of Newfoundland, Deptarment of Physics and
+  Physical Oceanography, November 30 2005.
+
+
+\bibitem{Richards+deYoung:2004}
+C.~Richards and B.~de~Young, ``Analysis of physical oceanographic data from
+  {B}onne {B}ay, {S}eptember 2002 - {S}eptember 2004,'' Department of Physics
+  and Physical Oceanography Memorial University of Newfoundland, Physics and
+  Physical Oceanography Data Report 2004-1, Nov. 2004.
+
+
+\bibitem{Richardson:2008}
+P.~Richardson, ``{On the history of meridional overturning circulation
+  schematic diagrams},'' \emph{Progress in Oceanography}, vol.~76, no.~4, pp.
+  466--486, 2008.
+
+
+\bibitem{Geyer+Signell:1990}
+W.~Rockwell~Geyer and R.~Signell, ``{Measurements of tidal flow around a
+  headland with a shipboard acoustic Doppler current profiler},'' \emph{Journal
+  of Geophysical Research}, vol.~95, no.~C3, pp. 3189--3198, 1990.
+
+
+\bibitem{Roed+Cooper:1986}
+L.~P. R{\o}ed and C.~K. Cooper, ``Open boundary conditions in numerical ocean
+  models,'' in \emph{Advanced Physical Oceanographic Numerical Modeling}, J.~J.
+  O'brien, Ed.\hskip 1em plus 0.5em minus 0.4em\relax Norwell, Mass.: D.
+  Reidel, 1986, pp. 411--436.
+
+
+\bibitem{Rosenhead:1931}
+L.~Rosenhead, ``The formation of vortices from a surface of discontinuity,''
+  \emph{Proc. R. Soc. Lond. A}, vol. 134, pp. 170--192, 1931.
+
+
+\bibitem{Ross+Lueck:2003}
+T.~Ross and R.~Lueck, ``Sound scattering from oceanic turbulence,''
+  \emph{Geophys. Res. Let.}, vol.~30, no.~6, pp. 1344,
+  doi:10.1029/2002GL016\,733, 2003.
+
+
+\bibitem{Rothschild+Osborn:1988}
+B.~J. Rothschild and T.~R. Osborn, ``Small-scale turbulence and plankton
+  contact rates,'' \emph{J. Plankton Res.}, vol.~10, no.~3, pp. 465--474, 1988.
+
+
+\bibitem{Rubenstein:1999}
+D.~Rubenstein, ``{Observations of cnoidal internal waves and their effect on
+  acoustic propagation in shallow water},'' \emph{IEEE Journal of Oceanic
+  Engineering}, vol.~24, no.~3, pp. 346--357, 1999.
+
+
+\bibitem{Ruddick:1997}
+B.~Ruddick, ``Differential fluxes of heat and salt: implications for
+  circulation and ecosystem modeling,'' \emph{Oceanography}, vol.~10, no.~3,
+  pp. 122--127, 1997.
+
+
+\bibitem{Ruddick+al:2000}
+B.~Ruddick, A.~Anis, and K.~Thompson, ``Maximum likelihood spectral fitting:
+  the {B}atchelor spectrum,'' \emph{J. Atmos. Oceanic Technol.}, vol.~17, pp.
+  1541--1555, 2000.
+
+
+\bibitem{Salas-Monreal+Valle-Levinson:2009}
+D.~Salas-Monreal and A.~Valle-Levinson, ``Continuously stratified flow dynamics
+  over a hollow,'' \emph{J. Geophys. Res.}, vol. 114, p. C03021, 2009.
+
+
+\bibitem{Salmon:1983}
+R.~Salmon, ``{Practical use of Hamilton's principle},'' \emph{Journal of Fluid
+  Mechanics}, vol. 132, pp. 431--444, 1983.
+
+
+\bibitem{Salmon:1988}
+------, ``{Hamiltonian Fluid Mechanics},'' \emph{Annual Review of Fluid
+  Mechanics}, vol.~20, no.~1, pp. 225--256, 1988.
+
+
+\bibitem{Salmon:1998}
+------, \emph{{Lectures on Geophysical Fluid Dynamics}}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Oxford University Press, USA, 1998.
+
+
+\bibitem{Sandstrom+Oakey:1995}
+H.~Sandstrom and N.~S. Oakey, ``{Dissipation in Internal Tides and Solitary
+  Waves},'' \emph{Journal of Physical Oceanography}, vol.~25, no.~4, pp.
+  604--614, 1995.
+
+
+\bibitem{Saucier+Chasse:2000}
+F.~Saucier and J.~Chass{\'e}, ``{Tidal circulation and buoyancy effects in the
+  St. Lawrence Estuary},'' \emph{Atmosphere-Ocean}, vol.~38, no.~4, pp.
+  505--556, 2000.
+
+
+\bibitem{Saucier+al:2003}
+F.~J. Saucier, F.~Roy, D.~Gilbert, P.~Pellerin, and H.~Ritchie, ``Modeling the
+  formation and circulation processes of water masses and sea ice in the {G}ulf
+  of {S}t-{L}awrence, {C}anada,'' \emph{J. Geophys. Res.}, vol. 108, no.~C8,
+  pp. 3269, doi:10.129/2000JC000\,686, 2003.
+
+
+\bibitem{Saunders:1977}
+P.~M. Saunders, ``Wind stress on the ocean over the eastern continental shelf
+  of {N}orth {A}merica,'' \emph{J. Phys. Oceanogr.}, vol.~7, pp. 555--566,
+  1977.
+
+
+\bibitem{Scinocca+Shepherd:1992}
+J.~Scinocca and T.~Shepherd, ``{Nonlinear Wave-Activity Conservation Laws and
+  Hamiltonian Structure for the Two-Dimensional Anelastic Equations},''
+  \emph{Journal of the Atmospheric Sciences}, vol.~49, no.~1, pp. 5--28, 1992.
+
+
+\bibitem{Scotti+al:2006}
+A.~Scotti, R.~Beardsley, and B.~Butman, ``{On the interpretation of energy and
+  energy fluxes of nonlinear internal waves: an example from Massachusetts
+  Bay},'' \emph{Journal of Fluid Mechanics}, vol. 561, pp. 103--112, 2006.
+ \begin{quotation}\noindent Another paper highlighting the importance of
+  evaluating nonhydrostatic pressure terms, and the self advection of
+  pseudoenergy when determining energy fluxes for nonlinear internal waves
+  (either for numerical, laboratory, or field data). They test the theory with
+  measurements from Massachusetts bay, showing that $\int u'p' dx$ accounts for
+  only half of the total flux. Also show that the equipartition of KE and APE
+  can be violated. The theory is somewhat hard to follow, but the idea seems to
+  be that they develop their energy equation relative to a reference state that
+  is generally defined, as follows. Let $\bar{\rho} = \bar{\rho}(z,t)$ be a
+  stable reference state. Then $z^*(s,t)$ is such that $\bar{\rho}(z^*(s,t),t)
+  = s$. \emph{$z^*$ is the level at which a density $s$ resides in the
+  reference state????} Then \[ \psi = \int_{\rho_0}^{\rho} gz^* ds \] where
+  $\rho = \rho(\mathbf{x},t)$ and $\mathrm{min}(\rho) < \rho_0 <
+  \mathrm{max}(\rho)$. $\psi$ is some kind of potential energy, like the
+  potential energy at a level $\rho$ referenced to $\rho_0$? Is basically a
+  generally defined reference state. $\psi$ can also be written as \[ \psi =
+  \int_{\bar{\rho}}^{\rho} g z^* ds + \bar{\rho}gz - \rho_0 g z_0(t) - g
+  \int_{z_0(t)}^z\bar{\rho} dz' \] where $z_0(t) = z^*(\rho_0,t)$, so that the
+  APE is \[ E_p = \rho gz - \psi. \] \\ They also include viscous and diffusive
+  terms, which would mean that the reference density state is time dependent.
+  \emph{There is a close connection here with section 2.2 of Lamb 2007, and
+  working these together may help me sort this out}. Their final energy
+  equation is: \[ \frac{\partial}{\partial t}(E_k + E_p) + \nabla \cdot(
+  \vec{u}(P + E_k + E_p)) = \nabla^2( \nu E_k + \kappa E_p) - \epsilon_k -
+  \epsilon_p - 2g \kappa \frac{\partial}{\partial z}(\rho - \bar{\rho}) - g
+  \int_{\bar{\rho}}^{\rho} \frac{\partial z^*}{\partial t} ds \] where $P$ is
+  the deviation from hydrostatic pressure distribution associated with the
+  reference state, and the terms on the right are: diffusion, conversion of
+  energy (KE and PE) to internal energy (heat) through viscous friction, energy
+  used to irreversibly raise the centre of mass through mixing, and changes in
+  $E_p$ due to changes in the background state. Note that \[ E_p = g
+  \int_{\bar{\rho}}^{\rho} (z - z^*) ds \] For a closed system the energy
+  equation is equivalent to that of Winters et al 1995 if $\bar{\rho}$ is
+  chosen to be the adiabatic restratification of $\rho$, and $E_p$ is the APE
+  as it is commonly known. The mixing terms are globally negative, but locally
+  can have either sign. \\Their energy equation does not depend on the
+  assumption that $\bar{\rho}$ is an adiabatic restratification of $\rho$. In
+  an open system, determining the exact $\bar{\rho}$ is difficult or impossible
+  (much like Winters et al 1995 state), but they state: ``as long as conditions
+  within the domain allow the existence of an equilibrium state ($\vec{u} = 0,
+  \rho = \bar{\rho}(z)$), one can guess a reasonable value for $\bar{\rho}$,
+  and calculate the resulting fluxes." They then proceed to trash Chang et al
+  2006 for being so dumb by dropping the nonlinear flux terms. \\ The methods
+  are applied to many (tidally generated) packets of IWs. They determine
+  $\bar{\rho}$ from data taken just before arrival of the waves. Equipartition
+  is better at B than C, because C is shallower. They do like Moum and Smyth
+  2006 and evaluate the hydrostatic and nonhydrostatic pressure terms. \\ They
+  also evaluate high and low passed fluxes, and find that even though the high
+  pass flux is nonzero for about 15\% of the tidal cycle, it accounts for 60\%
+  of the total flux averaged over the cycle. \\ They estimate dissipation for
+  high and low pass fluxes by considering the differences between stations B
+  and C, and find that dissipation is only 2.6 times greater as a result of the
+  waves. \end{quotation}
+
+\bibitem{Scotti+al:2008}
+A.~Scotti, R.~C. Beardsley, B.~Butman, and J.~Pineda, ``Shoaling of nonlinear
+  internal waves in massachusetts bay,'' \emph{J. Geophys. Res.}, vol. 113, p.
+  C08031, 2008.
+
+
+\bibitem{Scotti+al:2007}
+A.~Scotti, R.~Beardsley, and B.~Butman, ``{Generation and propagation of
+  nonlinear internal waves in Massachusetts Bay},'' \emph{Journal of
+  Geophysical Research-Oceans}, vol. 112, no. C10, p. C10001, 2007.
+
+
+\bibitem{Scotti+al:2005}
+A.~Scotti, B.~Butman, R.~Beardsley, P.~Alexander, and S.~Anderson, ``{A
+  Modified Beam-to-Earth Transformation to Measure Short-Wavelength Internal
+  Waves with an Acoustic Doppler Current Profiler},'' \emph{Journal of
+  Atmospheric and Oceanic Technology}, vol.~22, no.~5, pp. 583--591, 2005.
+
+
+\bibitem{Seliger+Whitham:1968}
+R.~Seliger and G.~Whitham, ``{Variational Principles in Continuum Mechanics},''
+  \emph{Proceedings of the Royal Society of London. Series A, Mathematical and
+  Physical Sciences}, vol. 305, no. 1480, pp. 1--25, 1968.
+
+
+\bibitem{Shaw+Churnside:1997}
+J.~Shaw and J.~Churnside, ``{Scanning-laser glint measurements of sea-surface
+  slope statistics},'' \emph{Applied Optics}, vol.~36, no.~18, 1997.
+
+
+\bibitem{Shaw+al:2009}
+P.~Shaw, D.~Ko, and S.~Chao, ``Internal solitary waves induced by flow over a
+  ridge: With applications to the northern south china sea,'' \emph{J. Geophys.
+  Res.}, vol. 114, p. C02019, 2009.
+ \begin{quotation}\noindent internal wave, generation, south china sea,
+  topography \end{quotation}
+
+\bibitem{Shepherd:1990}
+T.~Shepherd, ``{Symmetries, conservation laws, and Hamiltonian structure in
+  geophysical fluid dynamics},'' \emph{Adv. Geophys}, vol.~32, pp. 287--339,
+  1990.
+
+
+\bibitem{Shepherd:1993}
+------, ``{A unified theory of available potential energy},'' \emph{Atmosphere
+  Ocean}, vol.~31, pp. 1--26, 1993.
+ \begin{quotation}\noindent Shepherd rederives APE in several contexts
+  (acoustic waves, Lorenz's APE, compressible stratified fluid, and for a
+  non-resting basic state) using a Hamiltonian formalism. In this context,
+  conservation laws for non-canonical systems are not connected to explicit
+  symmetries of the Hamiltonian, but arise from the degenerate nature of the
+  Poisson bracket. These are known as {\emph Casimir Invariants}. These ideas
+  arose due to the fact that in order to produce an equation for conservation
+  of pseudoenergy (KE + APE), additional conservation laws (i.e. mass
+  conservation) had to be combined with traditional energy conservation laws.
+  Most of the paper is pretty heavy and unreadable without a strong Hamiltonian
+  mechanics background, but the intro and conclusion summarize the issue pretty
+  well. For a clear summary of APE see Winters et al 1995. \end{quotation}
+
+\bibitem{Sherman+al:1978}
+F.~S. Sherman, J.~Imberger, and G.~M. Corcos, ``Turbulence and mixing in stably
+  stratified waters,'' \emph{Annu. Rev. Fluid Mech.}, vol.~10, pp. 267--288,
+  1978.
+
+
+\bibitem{Shrira+al:2000}
+V.~Shrira, V.~Voronovich, and I.~Sazonov, ``{Wave breaking due to internal wave
+  shear flow resonance over a sloping bottom},'' \emph{Journal of Fluid
+  Mechanics}, vol. 425, no.~01, pp. 187--211, 2000.
+
+
+\bibitem{Shroyer+al:2009}
+E.~L. Shroyer, J.~N. Moum, and J.~D. Nash, ``Observations of polarity reversal
+  in shoaling nonlinear internal waves,'' \emph{J. Phys. Oceanogr.}, vol.~39,
+  no.~3, pp. 691--701, 2009.
+
+
+\bibitem{Signell+Geyer:1991}
+R.~Signell and W.~Geyer, ``{Transient eddy formation around headlands},''
+  \emph{J. Geophys. Res}, vol.~96, no.~C2, pp. 2561--2575, 1991.
+
+
+\bibitem{Small:2001}
+J.~Small, ``{A Nonlinear Model of the Shoaling and Refraction of Interfacial
+  Solitary Waves in the Ocean. Part I: Development of the Model and
+  Investigations of the Shoaling Effect},'' \emph{Journal of Physical
+  Oceanography}, vol.~31, no.~11, pp. 3163--3183, 2001.
+
+
+\bibitem{Smith:1973}
+S.~D. Smith, ``Eddy flux measurements over {Lake Ontario},''
+  \emph{Boundary-Layer Meteorol.}, vol.~6, pp. 235--255, 1973.
+
+
+\bibitem{Smith+al:1996}
+S.~D. Smith, C.~W. Fairall, G.~L. Geernaert, and L.~Hasse, ``Air-sea fluxes: 25
+  years of progress,'' \emph{Boundary-Layer Meteorol.}, vol.~78, pp. 247--290,
+  1996.
+
+
+\bibitem{Stacey:1984}
+M.~W. Stacey, ``The interaction of tides with the sill of a tidally energetic
+  inlet,'' \emph{J. Phys. Oceanogr.}, vol.~14, pp. 1105--1117, 1984.
+
+
+\bibitem{Stastna+Lamb:2002}
+M.~Stastna and K.~Lamb, ``{Large fully nonlinear internal solitary waves: The
+  effect of background current},'' \emph{Physics of Fluids}, vol.~14, p. 2987,
+  2002.
+
+
+\bibitem{Stastna+Peltier:2005}
+M.~Stastna and W.~Peltier, ``{On the resonant generation of large-amplitude
+  internal solitary and solitary-like waves},'' \emph{Journal of Fluid
+  Mechanics}, vol. 543, pp. 267--292, 2005.
+
+
+\bibitem{Stewart+Grant:1999}
+R.~Stewart and H.~Grant, ``{Early Measurements of Turbulence in the Ocean:
+  Motives and Techniques},'' \emph{Journal of Atmospheric and Oceanic
+  Technology}, vol.~16, no.~11, pp. 1467--1473, 1999.
+
+
+\bibitem{Stigebrandt:1981}
+A.~Stigebrandt, ``A mechanism governing the estuarine circulation in deep,
+  strongly stratified fjords,'' \emph{Estuarine Coastal Mar. Sci.}, vol.~13,
+  pp. 197--211, 1981.
+
+
+\bibitem{Stigebrandt:1976}
+------, ``Vertical diffusion driven by internal waves in a sill fjord,''
+  \emph{J. Phys. Oceanogr.}, vol.~6, pp. 486--495, 1976.
+
+
+\bibitem{Stigebrandt:1980}
+------, ``Some aspects of tidal interaction with fjord constrictions,''
+  \emph{Estuarine Coastal Mar. Sci.}, vol.~11, pp. 151--166, 1980.
+
+
+\bibitem{Stilling+Szyszkowski:2002}
+D.~Stilling and W.~Szyszkowski, ``{Controlling angular oscillations through
+  mass reconfiguration: a variable length pendulum case},'' \emph{International
+  Journal of Non-Linear Mechanics}, vol.~37, no.~1, pp. 89--99, 2002.
+
+
+\bibitem{Stommel+Farmer:1952}
+H.~Stommel and H.~Farmer, ``{On the nature of estuarine circulation: Part I,
+  Chapters 3 and 4},'' Woods Hole Oceanographic Institution, Tech. Rep. 52-88,
+  1952.
+
+
+\bibitem{Sutherland:2002}
+B.~R. Sutherland, ``Interfacial gravity currents. {I. M}ixing and
+  entrainment,'' \emph{Phys. Fluids}, vol.~14, no.~7, pp. 2244--2254, 2002.
+
+
+\bibitem{Sutherland:2006}
+B.~Sutherland, ``{Weakly nonlinear internal gravity wavepackets},''
+  \emph{Journal of Fluid Mechanics}, vol. 569, pp. 249--258, 2006.
+
+
+\bibitem{Sutherland+Yewchuck:2004}
+B.~Sutherland and K.~Yewchuk, ``{Internal wave tunnelling},'' \emph{Journal of
+  Fluid Mechanics}, vol. 511, pp. 125--134, 2004.
+
+
+\bibitem{Sveen+al:2002}
+J.~Sveen, Y.~Guo, P.~Davies, and J.~Grue, ``{On the breaking of internal
+  solitary waves at a ridge},'' \emph{Journal of Fluid Mechanics}, vol. 469,
+  pp. 161--188, 2002.
+
+
+\bibitem{Svendsen+Thomson:1978}
+H.~Svendsen and R.~O. R.~Y. Thomson, ``Wind-driven circulation in a fjord,''
+  \emph{J. Phys. Oceanogr.}, vol.~8, pp. 703--712, 1978.
+
+
+\bibitem{Tea+Falk:1968}
+P.~Tea~Jr and H.~Falk, ``{Pumping on a Swing},'' \emph{American Journal of
+  Physics}, vol.~36, p. 1165, 1968.
+
+
+\bibitem{Thacker:1987}
+W.~Thacker, ``{Three lectures on fitting numerical models to observations.
+  External Rep},'' GKSS 87/E/65, 64pp., GKSS Forschungszntrum Geesthacht, Tech.
+  Rep., 1987.
+
+
+\bibitem{Thompson+Wallace:1998}
+D.~W. Thompson and J.~M. Wallace, ``The artic oscillation signature in the
+  wintertime geopotential height and temperature fields,'' \emph{Geophys. Res.
+  Let.}, vol.~25, no.~9, pp. 1297--1300, 1998.
+
+
+\bibitem{Thompson+al:2003}
+K.~Thompson, J.~Sheng, P.~Smith, and L.~Cong, ``{Prediction of surface currents
+  and drifter trajectories on the inner Scotian Shelf},'' \emph{J. Geophys.
+  Res}, vol. 108, no.~C9, p.~3, 2003.
+
+
+\bibitem{Thornton+Marion:2004}
+S.~T. Thornton and J.~B. Marion, \emph{Classical Dynamics of particles and
+  systems}, 5th~ed.\hskip 1em plus 0.5em minus 0.4em\relax Thomson, 2004.
+
+
+\bibitem{Thorpe:1981}
+S.~Thorpe, ``{Experimental study of critical layers},'' \emph{Journal of Fluid
+  Mechanics}, vol. 103, pp. 321--44, 1981.
+
+
+\bibitem{Thorpe:1968}
+S.~A. Thorpe, ``A method of producing a shear flow in a stratified fluid,''
+  \emph{J. Fluid Mech.}, vol.~32, no. part 4, pp. 693--704, 1968.
+
+
+\bibitem{Thorpe:1971}
+------, ``Experiments on the instability of stratified shear flows: miscible
+  fluids,'' \emph{J. Fluid Mech.}, vol.~46, no. part 2, pp. 299--319, 1971.
+
+
+\bibitem{Thorpe:1973}
+------, ``Turbulence in stably stratified fluids: a review of laboratory
+  experiments,'' \emph{Boundary-Layer Meteorol.}, vol.~5, pp. 95--119, 1973.
+
+
+\bibitem{Thorpe:1988}
+S.~Thorpe, ``{A Note on Breaking Waves},'' \emph{Proceedings of the Royal
+  Society of London. Series A, Mathematical and Physical Sciences}, vol. 419,
+  no. 1857, pp. 323--335, 1988.
+
+
+\bibitem{Tian+al:2001}
+R.~C. Tian, A.~F. V\'ezina, M.~Starr, and F.~Saucier, ``Seasonal dynamics of
+  coastal ecosystems and export production at high latitudes: a modeling
+  study,'' \emph{Limnol. Oceanogr.}, vol.~46, no.~8, pp. 1845--1859, 2001.
+
+
+\bibitem{Tielburger+al:1997}
+D.~Tielb{\"u}rger, S.~Finette, and S.~Wolf, ``{Acoustic propagation through an
+  internal wave field in a shallow water waveguide},'' \emph{The Journal of the
+  Acoustical Society of America}, vol. 101, p. 789, 1997.
+
+
+\bibitem{Tittensor+al:2002}
+D.~Tittensor, B.~de~Young, and J.~Foley, ``Analysis of physical oceanographic
+  data from {T}rinity {B}ay, {M}ay - {A}ugust 2002,'' Department of Physics and
+  Physical Oceanography Memorial University of Newfoundland, Physics and
+  Physical Oceanography Data Report 2002-2, 2002.
+
+
+\bibitem{Tolman:1991}
+H.~Tolman, ``{A Third-Generation Model for Wind Waves on Slowly Varying,
+  Unsteady, and Inhomogeneous Depths and Currents},'' \emph{Journal of Physical
+  Oceanography}, vol.~21, no.~6, pp. 782--797, 1991.
+ \begin{quotation}\noindent Description of WAVEWATCH, a 3rd generation
+  (includes wave generation, dissipation, and wave-wave interactions
+  explicitly) wave model. Can model waves with unsteady depths and currents,
+  using ray theory and conservation of action. I believe that it is a
+  predecessor to SWAN. \end{quotation}
+
+\bibitem{Toulany+al:1987}
+B.~Toulany, B.~Petrie, and C.~Garrett, ``The frequency-dependent structure and
+  dynamics of flow fluctuations in the {S}trait of {B}elle {I}sle,'' \emph{J.
+  Phys. Oceanogr.}, vol.~17, pp. 185--196, 1987.
+
+
+\bibitem{Turkington+al:1991}
+B.~Turkington, A.~Eydeland, and S.~Wang, ``{A computational method for solitary
+  internal waves in a continuously stratified fluid},'' \emph{Stud. Appl.
+  Maths}, vol.~85, pp. 93--127, 1991.
+
+
+\bibitem{Turner:1973}
+J.~S. Turner, \emph{Buoyancy effects in fluids}.\hskip 1em plus 0.5em minus
+  0.4em\relax Cambridge U.K.: Cambridge University Press, 1973.
+
+
+\bibitem{Turner:1986}
+------, ``Turbulent entrainment: the development of the entrainment assumption,
+  and its application to geophysical flows,'' \emph{J. Fluid Mech.}, vol. 173,
+  pp. 431--471, 1986.
+
+
+\bibitem{Ursell:1953}
+F.~Ursell, ``The long-wave paradox in the theory of gravity waves,''
+  \emph{Proc. Cambridge Phil. Soc.}, vol.~49, pp. 685--694, 1953.
+
+
+\bibitem{Valentine+Sipcic:2002}
+D.~Valentine and R.~Sipcic, ``{Nonlinear Internal Solitary Wave on a
+  Pycnocline},'' \emph{Journal of Offshore Mechanics and Arctic Engineering},
+  vol. 124, p. 120, 2002.
+
+
+\bibitem{Venayagamoorthy+Fringer:2005}
+S.~Venayagamoorthy and O.~Fringer, ``{Nonhydrostatic and nonlinear
+  contributions to the energy flux budget in nonlinear internal waves},''
+  \emph{Geophysical research letters}, vol.~32, no.~15, pp. 15\,603--15\,603,
+  2005.
+ \begin{quotation}\noindent Another paper highlighting the importance of
+  considering the nonhydrostatic pressure in the $up$ flux terms. They model a
+  mode 1 internal wave breaking on a shelf creating a bolus that propagates
+  (highly non-linearly) onshore. Evaluating all contributions to the energy
+  flux (vertically integrated) at a point on the shelf suggests that the
+  hydrostatic part only accounts for $\sim$50 \%, while the nonhydrostatic part
+  contributes $\sim$35 \% of the total flux. \end{quotation}
+
+\bibitem{Venayagamoorthy+Fringer:2006}
+------, ``{Numerical simulations of the interaction of internal waves with a
+  shelf break},'' \emph{Physics of Fluids}, vol.~18, p. 076603, 2006.
+
+
+\bibitem{Venditti+al:2006}
+J.~Venditti, M.~Church, and S.~Bennett, ``{On interfacial instability as a
+  cause of transverse subcritical bed forms},'' \emph{Water Resour. Res},
+  vol.~42, 2006.
+
+
+\bibitem{Visbeck+al:2003}
+M.~Visbeck, E.~P. Chassignet, R.~G. Curry, T.~L. Delworth, R.~R. Dickson, and
+  G.~Krahmann, ``The ocean's response to {North Atlantic Oscillation}
+  variability,'' in \emph{The North Atlantic Oscillation}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Washington, DC: AGU, 2003, pp. 113--145.
+
+
+\bibitem{Visbeck+al:2001}
+M.~H. Visbeck, J.~W. Hurrell, L.~Polvani, and H.~M. Cullen, ``The north
+  atlantic oscillation: past, present and future,'' \emph{Proceedings of the
+  National Academy of Sciences}, vol.~98, no.~23, pp. 12\,876--12\,877, 2001.
+
+
+\bibitem{Vlasenko+al:2005}
+V.~Vlasenko, L.~Ostrovsky, and K.~Hutter, ``{Adiabatic behavior of strongly
+  nonlinear internal solitary waves in slope-shelf areas},'' \emph{Journal of
+  Geophysical Research}, vol. 110, no.~C4, 2005.
+
+
+\bibitem{Vlasenko+Stashchuk:2007}
+V.~Vlasenko and N.~Stashchuk, ``{Three-dimensional shoaling of large-amplitude
+  internal waves},'' \emph{Journal of Geophysical Research}, vol. 112, no. C11,
+  2007.
+
+
+\bibitem{Vlasenko+Hutter:2001}
+V.~Vlasenko and K.~Hutter, ``{Generation of second mode solitary waves by the
+  interaction of a first mode soliton with a sill},'' \emph{Nonlinear Processes
+  in Geophysics}, vol.~8, no. 4/5, pp. 223--239, 2001.
+
+
+\bibitem{Webb+Suginohara:2001}
+D.~J. Webb and N.~Suginohara, ``Vertical mixing in the ocean,'' \emph{Nature},
+  vol. 409, p.~37, 2001.
+
+
+\bibitem{Wells+Siklos:2007}
+C.~Wells and S.~Siklos, ``{The adiabatic invariance of the action variable in
+  classical dynamics},'' \emph{European Journal of Physics}, vol.~28, no.~1,
+  pp. 105--112, 2007.
+
+
+\bibitem{Wells+Wettlaufer:2005}
+M.~G. Wells and J.~S. Wettlaufer, ``Two-dimensional density currents in a
+  confined basin,'' \emph{Geophysical and Astrophysical Fluid Dynamics},
+  vol.~99, no.~3, pp. 199--218, 2005.
+
+
+\bibitem{Whitham:1965a}
+G.~Whitham, ``{A general approach to linear and non-linear dispersive waves
+  using a Lagrangian},'' \emph{Journal of Fluid Mechanics}, vol.~22, pp.
+  273--283, 1965.
+
+
+\bibitem{Whitham:1965b}
+------, ``{Non-Linear Dispersive Waves},'' \emph{Proceedings of the Royal
+  Society of London. Series A, Mathematical and Physical Sciences}, vol. 283,
+  no. 1393, pp. 238--261, 1965.
+
+
+\bibitem{Whitham:1967}
+------, ``{Variational Methods and Applications to Water Waves},''
+  \emph{Proceedings of the Royal Society of London. Series A, Mathematical and
+  Physical Sciences}, vol. 299, no. 1456, pp. 6--25, 1967.
+
+
+\bibitem{Winters+al:1995}
+K.~Winters, P.~Lombard, J.~Riley, and E.~D'Asara, ``{Available potential energy
+  and mixing in density-stratified fluids},'' \emph{Journal of Fluid
+  Mechanics}, vol. 289, pp. 115--128, 1995.
+ \begin{quotation}\noindent They look at the concept of APE and how it relates
+  to mixing in density stratified flow. The goal is to separate adiabatic
+  processes from diabatic ones, so as to evaluate changes in APE separately
+  from changes in BPE (background PE) and total PE. The model includes
+  dissipation and diffusion, and highlights that the distinction between
+  buoyancy flux ($-g\overline{\rho w}$) and diabatic mixing. Definitions are:
+  \[ E_p = g \int_V \rho z dV \] is the total PE, \[ E_b = g \int_V \rho
+  z_*({\bf x},t) dV \] is the background PE, where $z_*({\bf x},t)$ is the
+  vertical position of a fluid parcel originally at height $z$ after
+  redistributing the density field. The APE is therefore \[ E_a = g \int_V \rho
+  (z - z_*) dV \] as $E_p = E_a + E_b$. They show through a numerical
+  simulation of KH instability the temporal evolution of $E_p$, $E_a$ and $E_b$
+  where the creation of $E_a$ through adiabatic redistribution of the fluid is
+  subsequently removed through diabatic processes (dissipation and diffusion)
+  to increase $E_b$ until after a long time $E_p$ and $E_b$ are the same (see
+  Figure 4). They also have a nice figure showing a schematic of exchange of
+  energy between kinetic, APE, BPE, and internal and external energy, and the
+  associated terms and equations that produce those exchanges. Section 6
+  discusses the numerical implementation of calculating the APE and BPE
+  components, particularly with regards to the necessary adiabatic
+  redistribution of the density field in order to determine the reference
+  density (i.e. the minimum potential energy state). A computed background
+  density will only be an approximation of the true reference state, as each
+  horizontal layer of the sorted field may contain difference density elements,
+  which of course is not the case for the true background field. They state
+  that as long as the rms fluid displacements exceed the vertical grid spacing,
+  the error in the computed APE is insignificant. When the fluid displacements
+  were small wrt the grid spacing, interpolation of the density field was
+  required before the sorting procedure converged to the background profile.
+  Overall, a nice clear oceanographic review of APE. I'm not sure how this
+  relates exactly to Shepherd 1993, but it is at least more accessible.
+  \end{quotation}
+
+\bibitem{Winters+Seim:2000}
+K.~B. Winters and H.~E. Seim, ``The role of dissipation and mixing in exchange
+  flow through a contracting channel,'' \emph{J. Fluid Mech.}, vol. 407, pp.
+  265--290, 2000.
+
+
+\bibitem{Wolff+al:1991}
+J.-O. Wolff, E.~Maier-Reimer, and D.~J. Olbers, ``Wind-driven flow over
+  topography in a zonal $\beta$-plane: A quasi-geostrophic model of the
+  {Antarctice Circumpolar Current},'' \emph{J. Phys. Oceanogr.}, vol.~21, pp.
+  236--264, 1991.
+
+
+\bibitem{Wunsch:1975}
+C.~Wunsch, ``Internal tides in the ocean,'' \emph{Rev. Geophys. Space Phys.},
+  vol.~13, no.~1, pp. 167--182, 1975.
+
+
+\bibitem{Wunsch:1999}
+------, ``The interpretation of short climate records, with comments on the
+  {North Atlantic and Southern Oscillations},'' \emph{Bulletin of the American
+  Meteorological Society}, vol.~80, no.~2, pp. 245--255, 1999.
+
+
+\bibitem{Wunsch+Ferrari:2004}
+C.~Wunsch and R.~Ferrari, ``Vertical mixing, energy, and the general
+  circulation of the oceans,'' \emph{Annu. Rev. Fluid Mech.}, vol.~36, pp.
+  281--314, 2004.
+
+
+\bibitem{Yang+al:2007}
+B.~Yang, J.~Sheng, B.~Hatcher, and B.~Petrie, ``{Numerical study of circulation
+  and temperature-salinity distributions in the Bras d'Or Lakes},'' \emph{Ocean
+  Dynamics}, vol.~57, no.~4, pp. 245--268, 2007.
+
+
+\bibitem{Yefei+Jinbao:2006}
+B.~Yefei and S.~Jinbao, ``{Modification on Lynett and Liu's model for internal
+  solitary wave propagation over variable bathymetry},'' \emph{Chinese Journal
+  of Oceanology and Limnology}, vol.~24, no.~4, pp. 338--344, 2006.
+
+
+\bibitem{Yen:2000}
+J.~Yen, ``Life in transition: balancing inertial and viscous forces by
+  planktonic copepods,'' \emph{Biol. Bull.}, vol. 198, pp. 213--224, 2000.
+
+
+\end{thebibliography}

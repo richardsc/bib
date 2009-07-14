@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: format_biblio.aux
+The style file: IEEEannot.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: biblio_full.bib
+Reallocated field_info (elt_size=4) to 10040 items from 3186865738632.
+Reallocated field_info (elt_size=4) to 15080 items from 3186865743672.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated field_info (elt_size=4) to 20120 items from 3186865748712.
+-- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for use with work to be submitted to the IEEE.
+
+Done.
+You've used 384 entries,
+            4480 wiz_defined-function locations,
+            3267 strings with 105776 characters,
+and the built_in function-call counts, 362734 in all, are:
+= -- 33771
+> -- 8253
+< -- 3549
++ -- 4561
+- -- 1713
+* -- 17965
+:= -- 54957
+add.period$ -- 777
+call.type$ -- 384
+change.case$ -- 1982
+chr.to.int$ -- 8019
+cite$ -- 384
+duplicate$ -- 23104
+empty$ -- 24605
+format.name$ -- 1901
+if$ -- 81793
+int.to.chr$ -- 0
+int.to.str$ -- 384
+missing$ -- 3292
+newline$ -- 1558
+num.names$ -- 786
+pop$ -- 7033
+preamble$ -- 1
+purify$ -- 1582
+quote$ -- 2
+skip$ -- 28025
+stack$ -- 0
+substring$ -- 21353
+swap$ -- 19954
+text.length$ -- 876
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 3352
+warning$ -- 0
+while$ -- 2067
+width$ -- 387
+write$ -- 4358
