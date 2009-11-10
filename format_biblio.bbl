@@ -167,6 +167,12 @@ J.~Berntsen, J.~Xing, and G.~Alendal, ``{Assessment of non-hydrostatic ocean
   vol.~26, no. 12-13, pp. 1433--1447, 2006.
 
 
+\bibitem{Bijlsma+al:1986}
+S.~Bijlsma, L.~Hafkenscheid, and P.~Lynch, ``{Computation of the streamfunction
+  and velocity potential and reconstruction of the wind field},'' \emph{Monthly
+  Weather Review}, vol. 114, no.~8, pp. 1547--1551, 1986.
+
+
 \bibitem{Bjornsson+Venegas:1997}
 H.~Bj{\"o}rnsson and S.~A. Venegas, \emph{A manual for {EOF} and {SVD} analyses
   of climatic data}, Department of Atmospheric and Oceanic Sciences and Centre
@@ -845,6 +851,12 @@ W.~R. Geyer, J.~H. Trowbridge, and M.~M. Bowen, ``The dynamics of a partially
   mixed estuary,'' \emph{J. Phys. Oceanogr.}, vol.~30, pp. 2035--2048, 2000.
 
 
+\bibitem{Geyer+Signell:1992}
+W.~Geyer and R.~Signell, ``{A reassessment of the role of tidal dispersion in
+  estuaries and bays},'' \emph{Estuaries and Coasts}, vol.~15, no.~2, pp.
+  97--108, 1992.
+
+
 \bibitem{Gibson+Schwarz:1963}
 C.~H. Gibson and W.~H. Schwarz, ``The universal equilibrium spectra of
   turbulent velocity and scalar fields,'' \emph{J. Fluid Mech.}, vol.~16,
@@ -1162,6 +1174,12 @@ G.~Ivey, K.~Winters, and J.~Koseff, ``Density stratification, turbulence, but
   \url{http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.fluid.39.05%
 0905.110314}
 \BIBentrySTDinterwordspacing
+
+
+\bibitem{Jackson:2009}
+C.~R. Jackson, ``An empirical model for estimating the geographic location of
+  nonlinear internal solitary waves,'' \emph{J. Atmos. Oceanic Technol.},
+  vol.~26, pp. 2243--2255, 2009.
 
 
 \bibitem{Jay+Musiak:1996}
@@ -1541,10 +1559,22 @@ D.~M. Lewis, ``Planktonic encounter rates in homogeneous isotropic turbulence:
   Theor. Biol.}, vol. 222, pp. 73--97, 2003.
 
 
+\bibitem{Li+al:2009}
+Q.~Li, D.~M. Farmer, T.~F. Duda, and S.~Ramp, ``Acoustical measurement of
+  nonlinear internal waves using the inverted echo sounder,'' \emph{J. Atmos.
+  Oceanic Technol.}, vol.~26, pp. 2228--2242, 2009.
+
+
 \bibitem{Li+Raichlen:2003}
 Y.~Li and F.~Raichlen, ``{Energy Balance Model for Breaking Solitary Wave
   Runup},'' \emph{Journal of Waterway, Port, Coastal, and Ocean Engineering},
   vol. 129, p.~47, 2003.
+
+
+\bibitem{Li+al:2006}
+Z.~Li, Y.~Chao, and J.~McWilliams, ``{Computation of the streamfunction and
+  velocity potential for limited and irregular domains},'' \emph{Monthly
+  Weather Review}, vol. 134, no.~11, pp. 3384--3394, 2006.
 
 
 \bibitem{Lighthill:1978}
@@ -1588,8 +1618,13 @@ Y.~Lu and R.~G. Lueck, ``Using a broadband {ADCP} in a tidal channel. {Part
   1568--1579, 1999.
 
 
+\bibitem{Lynch:1988}
+P.~Lynch, ``{Deducing the wind from vorticity and divergence},'' \emph{Monthly
+  Weather Review}, vol. 116, no.~1, pp. 86--93, 1988.
+
+
 \bibitem{Lynch:2002}
-P.~Lynch, ``Hamiltonian methods for geophysical fluid dynamics: an
+------, ``Hamiltonian methods for geophysical fluid dynamics: an
   introduction,'' 2002, http://www.ima.umn.edu/preprints/feb02/1838.pdf.
 
 
@@ -1645,6 +1680,12 @@ J.~MacKinnon and M.~Gregg, ``Mixing on the late-summer new england
 ------, ``Shear and baroclinic energy flux on the summer new england shelf,''
   \emph{Journal of Physical Oceanography}, vol.~33, no.~7, pp. 1462--1475,
   2003.
+
+
+\bibitem{Mancuso:1967}
+R.~Mancuso, ``{A Numerical Procedure for Computing Fields of Stream Function
+  and Velocity Potential},'' \emph{Journal of Applied Meteorology}, vol.~6,
+  no.~6, pp. 994--1001, 1967.
 
 
 \bibitem{Matsuura:1995}
@@ -1746,8 +1787,8 @@ B.~R. Morton, G.~I. Taylor, and J.~S. Turner, ``Turbulent gravitational
 
 \bibitem{Moum+al:2007}
 J.~N. Moum, J.~M. Klymak, J.~D. Nash, A.~Perlin, and W.~D. Smyth, ``Energy
-  transport by nonlinear internal waves,'' 2007, in press, \emph{J. Phys.
-  Oceanogr.}
+  transport by nonlinear internal waves,'' \emph{J. Phys. Oceanogr.}, no.~37,
+  pp. 1968--1988, 2007.
  \begin{quotation}\noindent They have an extensive set of measurements during
   winter stratification near bottom on the Oregon Shelf. Turbulence profiles,
   bottom lander ADV and ADCP, fixed position CTD casts, shipboard ADCP and
@@ -1772,6 +1813,11 @@ J.~N. Moum, J.~M. Klymak, J.~D. Nash, A.~Perlin, and W.~D. Smyth, ``Energy
   focus on the high res lander data for the energy calculations. Also of note
   is that they plot vertical profiles of fluxes rather than just vertically
   integrated (fig. 15). \end{quotation}
+
+\bibitem{Moum+al:2008}
+J.~N. Moum, J.~D. Nash, and J.~M. Klymak, ``{Small-Scale Processes in the
+  Coastal Ocean},'' \emph{Oceanography}, vol.~21, no.~4, pp. 22--33, 2008.
+
 
 \bibitem{Moum+al:2003}
 J.~Moum, D.~Farmer, W.~Smyth, L.~Armi, and S.~Vagle, ``{Structure and
@@ -1840,6 +1886,12 @@ P.~Munk, ``Foraging behaviour of larval cod \textit{Gadus morhua} influenced by
 \bibitem{Munk+Wimbush:1969}
 W.~Munk and M.~Wimbush, ``{A rule of thumb for wave breaking over sloping
   beaches},'' \emph{Okeanologiya}, vol.~9, no.~1, pp. 71--75, 1969.
+
+
+\bibitem{Munk+Wunsch:1982}
+W.~Munk and C.~Wunsch, ``{Observing the ocean in the 1990s},''
+  \emph{Philosophical Transactions of the Royal Society of London. Series A,
+  Mathematical and Physical Sciences}, vol. 307, no. 1499, pp. 439--464, 1982.
 
 
 \bibitem{Munk:1966}
@@ -2056,6 +2108,12 @@ S.~Pond, D.~B. Fissel, and C.~A. Paulson, ``A note on bulk aerodynamics
 \bibitem{Pond+Pickard:1983}
 S.~Pond and G.~L. Pickard, \emph{Introductory dynamical oceanography},
   2nd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Butterworth-Heinemann, 1983.
+
+
+\bibitem{Press+al:2007}
+W.~Press, S.~Teukolsky, W.~Vetterling, and B.~Flannery, \emph{{Numerical
+  recipes in C}}, 3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge
+  Univ. Press Cambridge MA, USA:, 1992.
 
 
 \bibitem{Priestley:1981}
@@ -2363,9 +2421,22 @@ E.~L. Shroyer, J.~N. Moum, and J.~D. Nash, ``Observations of polarity reversal
   no.~3, pp. 691--701, 2009.
 
 
+\bibitem{Shukla+Saha:1974}
+J.~Shukla and K.~Saha, ``{Computation of non-divergent streamfunction and
+  irrotational velocity potential from the observed winds},'' \emph{Monthly
+  weather review}, vol. 102, no.~6, pp. 419--425, 1974.
+
+
 \bibitem{Signell+Geyer:1991}
 R.~Signell and W.~Geyer, ``{Transient eddy formation around headlands},''
   \emph{J. Geophys. Res}, vol.~96, no.~C2, pp. 2561--2575, 1991.
+
+
+\bibitem{Simpson+Gobat:1994}
+J.~Simpson and J.~Gobat, ``{Robust velocity estimates, stream functions, and
+  simulated Lagrangian drifters from sequential spacecraft data},'' \emph{IEEE
+  Transactions on Geoscience and Remote Sensing}, vol.~32, no.~3, pp. 479--493,
+  1994.
 
 
 \bibitem{Small:2001}
@@ -2401,6 +2472,12 @@ M.~Stastna and K.~Lamb, ``{Large fully nonlinear internal solitary waves: The
 M.~Stastna and W.~Peltier, ``{On the resonant generation of large-amplitude
   internal solitary and solitary-like waves},'' \emph{Journal of Fluid
   Mechanics}, vol. 543, pp. 267--292, 2005.
+
+
+\bibitem{Steinbuck+al:2009}
+J.~Steinbuck, M.~Stacey, and S.~Monismith, ``{An evaluation of $\chi$ T
+  estimation techniques: Implications for Batchelor fitting and ɛ},'' \emph{J.
+  Atmos. Oceanic Technol.}, vol.~26, no.~8, pp. 1652--1662, 2009.
 
 
 \bibitem{Stewart+Grant:1999}
