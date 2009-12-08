@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2008.8.8)  10 NOV 2009 15:57
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2008.8.8)  8 DEC 2009 16:41
 entering extended mode
 **\input format_biblio.tex
 (./format_biblio.tex (/home/richardsc/texmf/tex/latex/aguplus/aguplus.cls
@@ -107,12 +107,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
  [12]
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1446
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1457
 
  []
 
 [13] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1629
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1640
 []\OT1/cmr/m/n/10 ------, ``Hamil-to-nian meth-ods for geo-phys-i-cal fluid dy-
 nam-ics: an in-tro-duc-tion,'' 2002,
  []
@@ -126,18 +126,18 @@ Missing character: There is no … in font cmr10!
 Missing character: There is no õ in font cmr10!
  [24] [25] [26]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2834.
+(Font)              <8> on input line 2892.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2834.
+(Font)              <6> on input line 2892.
 ) [27]
 (./format_biblio.aux) ) 
 Here is how much of TeX's memory you used:
- 1278 strings out of 94500
- 15700 string characters out of 1176715
- 75675 words of memory out of 1000000
- 4503 multiletter control sequences out of 10000+50000
+ 1288 strings out of 94500
+ 15865 string characters out of 1176715
+ 77697 words of memory out of 1000000
+ 4513 multiletter control sequences out of 10000+50000
  7962 words of font info for 28 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 29i,5n,21p,158b,1059s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 29i,5n,21p,158b,1081s stack positions out of 1500i,500n,5000p,200000b,5000s
 
-Output written on format_biblio.dvi (27 pages, 143112 bytes).
+Output written on format_biblio.dvi (27 pages, 145140 bytes).

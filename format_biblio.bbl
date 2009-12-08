@@ -43,6 +43,12 @@ M.~Alford, ``{Redistribution of energy available for ocean mixing by long-range
   indicate that much of the internal tidal energy leaves the source region
   ($\sim$50\% and 30\% respectively). \end{quotation}
 
+\bibitem{Althaus+al:2003}
+A.~Althaus, E.~Kunze, and T.~Sanford, ``{Internal tide radiation from Mendocino
+  Escarpment},'' \emph{Journal of Physical Oceanography}, vol.~33, no.~7, pp.
+  1510--1527, 2003.
+
+
 \bibitem{Andrews+Mcintyre:1978}
 D.~Andrews and M.~McIntyre, ``{On wave-action and its relatives},''
   \emph{Journal of Fluid Mechanics}, vol.~89, pp. 647--664, 1978.
@@ -449,6 +455,11 @@ D.~Chelton, R.~Deszoeke, M.~Schlax, K.~El~Naggar, and N.~Siwertz,
   433--460, 1998.
  \begin{quotation}\noindent Nice summary of the vertical mode eigenvalue
   problem in the Appendices. \end{quotation}
+
+\bibitem{Chelton+Schlax:1996}
+D.~Chelton and M.~Schlax, ``{Global observations of oceanic Rossby waves},''
+  \emph{Science}, vol. 272, no. 5259, p. 234, 1996.
+
 
 \bibitem{Chen+al:2007}
 C.~Chen, J.~Hsu, M.~Cheng, H.~Chen, and C.~Kuo, ``{An investigation on internal
@@ -1773,6 +1784,11 @@ R.~Mirshak and D.~Kelley, ``Inferring propagation direction of nonlinear
   Oceanic Technol.}, vol.~26, pp. 615--625, 2009.
 
 
+\bibitem{Mirshak:2008}
+R.~Mirshak, ``Interfacial internal waves impacting sloped boundaries,'' Ph.D.
+  dissertation, Dalhousie University, 2008.
+
+
 \bibitem{Moore+Lien:2007}
 S.~Moore and R.~Lien, ``Pilot whales follow internal solitary waves in the
   {South China Sea},'' \emph{Marine Mammal Science}, vol.~23, no.~1, pp.
@@ -1819,11 +1835,24 @@ J.~N. Moum, J.~D. Nash, and J.~M. Klymak, ``{Small-Scale Processes in the
   Coastal Ocean},'' \emph{Oceanography}, vol.~21, no.~4, pp. 22--33, 2008.
 
 
+\bibitem{Moum+al:2007b}
+J.~Moum, D.~Farmer, E.~Shroyer, W.~Smyth, and L.~Armi, ``{Dissipative losses in
+  nonlinear internal waves propagating across the continental shelf},''
+  \emph{Journal of Physical Oceanography}, vol.~37, no.~7, pp. 1989--1995,
+  2007.
+
+
 \bibitem{Moum+al:2003}
 J.~Moum, D.~Farmer, W.~Smyth, L.~Armi, and S.~Vagle, ``{Structure and
   Generation of Turbulence at Interfaces Strained by Internal Solitary Waves
   Propagating Shoreward over the Continental Shelf},'' \emph{Journal of
   Physical Oceanography}, vol.~33, no.~10, pp. 2093--2112, 2003.
+
+
+\bibitem{Moum+Nash:2008}
+J.~Moum and J.~Nash, ``{Seafloor pressure measurements of nonlinear internal
+  waves},'' \emph{Journal of Physical Oceanography}, vol.~38, no.~2, pp.
+  481--491, 2008.
 
 
 \bibitem{Moum+Smyth:2006}
@@ -2069,6 +2098,11 @@ F.~Peters and C.~Marras{\'e}, ``Effects of turbulence on plankton: an overview
 B.~Petrie and B.~Toulany, ``The transport of water, heat and salt through the
   {S}trait of {B}elle {I}sle,'' \emph{Atmosphere Ocean}, vol.~26, no.~2, pp.
   234--251, 1988.
+
+
+\bibitem{Phillips:1966}
+O.~Phillips, ``{On turbulent convection currents and the circulation of the Red
+  Sea},'' \emph{Deep-Sea Res}, vol.~13, pp. 1149--1160, 1966.
 
 
 \bibitem{Pickard:1961}
@@ -2508,6 +2542,11 @@ D.~Stilling and W.~Szyszkowski, ``{Controlling angular oscillations through
   Journal of Non-Linear Mechanics}, vol.~37, no.~1, pp. 89--99, 2002.
 
 
+\bibitem{Stommel:1963}
+H.~Stommel, ``{Varieties of oceanographic experience},'' \emph{Science}, vol.
+  139, no. 1963, p. 373, 1963.
+
+
 \bibitem{Stommel+Farmer:1952}
 H.~Stommel and H.~Farmer, ``{On the nature of estuarine circulation: Part I,
   Chapters 3 and 4},'' Woods Hole Oceanographic Institution, Tech. Rep. 52-88,
@@ -2657,6 +2696,13 @@ D.~Valentine and R.~Sipcic, ``{Nonlinear Internal Solitary Wave on a
   vol. 124, p. 120, 2002.
 
 
+\bibitem{Vazquez+al:2009}
+A.~V\'azquez, S.~Flecha, M.~Bruno, D.~Macias, and G.~Navarro, ``{Internal waves
+  and short-scale distribution patterns of chlorophyll in the Strait of
+  Gibraltar and Albor\'an Sea},'' \emph{Geophys. Res. Let.}, vol.~36, p.
+  L23601, 2009.
+
+
 \bibitem{Venayagamoorthy+Fringer:2005}
 S.~Venayagamoorthy and O.~Fringer, ``{Nonhydrostatic and nonlinear
   contributions to the energy flux budget in nonlinear internal waves},''
@@ -2710,6 +2756,12 @@ V.~Vlasenko and N.~Stashchuk, ``{Three-dimensional shoaling of large-amplitude
 V.~Vlasenko and K.~Hutter, ``{Generation of second mode solitary waves by the
   interaction of a first mode soliton with a sill},'' \emph{Nonlinear Processes
   in Geophysics}, vol.~8, no. 4/5, pp. 223--239, 2001.
+
+
+\bibitem{Warner+MacCready:2009}
+S.~J. Warner and P.~MacCready, ``Dissecting the pressure field in tidal flow
+  past a headland: When is form drag ``real?'','' \emph{J. Phys. Oceanogr.},
+  vol.~39, no.~11, pp. 2971--2984, 2009.
 
 
 \bibitem{Webb+Suginohara:2001}
@@ -2797,8 +2849,14 @@ J.-O. Wolff, E.~Maier-Reimer, and D.~J. Olbers, ``Wind-driven flow over
   236--264, 1991.
 
 
+\bibitem{Wunsch:2006}
+C.~Wunsch, \emph{{Discrete inverse and state estimation problems: with
+  geophysical fluid applications}}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Cambridge University Press, 2006.
+
+
 \bibitem{Wunsch:1975}
-C.~Wunsch, ``Internal tides in the ocean,'' \emph{Rev. Geophys. Space Phys.},
+------, ``Internal tides in the ocean,'' \emph{Rev. Geophys. Space Phys.},
   vol.~13, no.~1, pp. 167--182, 1975.
 
 

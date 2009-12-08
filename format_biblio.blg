@@ -13,44 +13,44 @@ Reallocated field_info (elt_size=4) to 20120 items from 3186865748712.
 ** Sorting version - not for use with work to be submitted to the IEEE.
 
 Done.
-You've used 397 entries,
+You've used 407 entries,
             4480 wiz_defined-function locations,
-            3342 strings with 107897 characters,
-and the built_in function-call counts, 376416 in all, are:
-= -- 35024
-> -- 8577
-< -- 3700
-+ -- 4741
-- -- 1775
-* -- 18656
-:= -- 56970
-add.period$ -- 803
-call.type$ -- 397
-change.case$ -- 2051
-chr.to.int$ -- 8364
-cite$ -- 397
-duplicate$ -- 23964
-empty$ -- 25518
-format.name$ -- 1973
-if$ -- 84899
+            3395 strings with 109296 characters,
+and the built_in function-call counts, 385001 in all, are:
+= -- 35839
+> -- 8779
+< -- 3770
++ -- 4848
+- -- 1821
+* -- 19074
+:= -- 58308
+add.period$ -- 823
+call.type$ -- 407
+change.case$ -- 2103
+chr.to.int$ -- 8508
+cite$ -- 407
+duplicate$ -- 24527
+empty$ -- 26104
+format.name$ -- 2025
+if$ -- 86830
 int.to.chr$ -- 0
-int.to.str$ -- 397
-missing$ -- 3411
-newline$ -- 1610
-num.names$ -- 812
-pop$ -- 7286
+int.to.str$ -- 407
+missing$ -- 3497
+newline$ -- 1650
+num.names$ -- 832
+pop$ -- 7474
 preamble$ -- 1
-purify$ -- 1639
+purify$ -- 1682
 quote$ -- 2
-skip$ -- 29069
+skip$ -- 29745
 stack$ -- 0
-substring$ -- 22219
-swap$ -- 20724
-text.length$ -- 912
+substring$ -- 22638
+swap$ -- 21192
+text.length$ -- 934
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 3463
+type$ -- 3547
 warning$ -- 0
-while$ -- 2146
-width$ -- 400
-write$ -- 4510
+while$ -- 2189
+width$ -- 410
+write$ -- 4622
