@@ -6816,21 +6816,3 @@ url="http://dx.doi.org/10.1175/2011JPO4587.1"
     volume = {83}
 }
 
-@article{Martini+al:2011,
-  author = {Martini, Kim I. and Alford, Matthew H. and Kunze, Eric and Kelly,
-	Samuel M. and Nash, Jonathan D.},
-  title = {Observations of Internal Tides on the {O}regon Continental Slope},
-  journal = {J. Phys. Oceanogr.},
-  year = {2011},
-  volume = {41},
-  pages = {1772--1794},
-  number = {9},
-  month = may,
-  booktitle = {Journal of Physical Oceanography},
-  comment = {doi: 10.1175/2011JPO4581.1},
-  issn = {0022-3670},
-  owner = {richardsc},
-  publisher = {American Meteorological Society},
-  timestamp = {2011.10.07},
-  url = {http://dx.doi.org/10.1175/2011JPO4581.1}
-}
